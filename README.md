@@ -1,7 +1,9 @@
 # Visual-Question-Decomposition
 Code for EMNLP 2024 Findings paper "Visual Question Decomposition on Multimodal Large Language Models"
 
-
+<p align="center">
+<img src="figures/subquestion_quality_comparison.pdf" width="80%">
+</p>
 
 ## Contact
 For any issue or question, kindly contact us per E-Mail: Haowei Zhang (haowei.zhang@tum.de)
