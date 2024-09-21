@@ -2,7 +2,7 @@
 Code for EMNLP 2024 Findings paper "Visual Question Decomposition on Multimodal Large Language Models"
 
 <p align="center">
-<img src="figures/subquestion_quality_comparison.png" width="80%">
+<img src="figures/subquestion_quality_comparison.png" width="100%">
 </p>
 
 ## Contact
