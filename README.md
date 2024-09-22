@@ -15,10 +15,15 @@ We do finetuning and inference with four open-source Multimodal Large Language M
 | InternVL-Chat-V1-5 | [repo link](https://github.com/OpenGVLab/InternVL) |
 
 ## Data Preparation
+Both finetuning and inference require [COCO images](https://cocodataset.org/#download), we use the 2017 version. Unzip train2017.zip under <images/finetuning_COCO_images/> and test2017.zip under <images/inference_COCO_images/>.
+
+If you would like to do inference on GQA dataset, [GQA images](https://cs.stanford.edu/people/dorarad/gqa/download.html) are required additionally. Unzip images.zip under <images/inference_GQA_images/>.
+
 
 ## Fintuning
 If you would like to finetune models on your own, please follow [the finetuning instruction](finetuning/finetuning_instruction.md).
-You can also directly download our finetuned checkpoints for these four MLLMs in [Finetuned Model Zoo](finetuning/Finetuned_Models_Zoo.md).
+
+You can also directly download our finetuned checkpoints for these four MLLMs in [Finetuned Model Zoo](finetuning/Finetuned_Model_Zoo.md).
 
 
 ## Inference
