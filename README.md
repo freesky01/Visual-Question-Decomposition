@@ -19,18 +19,18 @@ We do finetuning and inference with four open-source Multimodal Large Language M
 ## Fintuning
 
 ## Inference
-### VQD Task
+### 1. VQD Task
 
-### VQA Task
+### 2. VQA Task
 
-### Whether2Deco Task
+### 3. Whether2Deco Task
 
 ## Evaluation
-### Quality of Sub-questions: SubQuestRater Evaluation Framework
+### 1. Quality of Sub-questions: SubQuestRater Evaluation Framework
 
-### VQA Accuracy
+### 2. VQA Accuracy
 
-### Whether2Deco Accuracy
+### 3. Whether2Deco Accuracy
 
 
 ## Contact
