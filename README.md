@@ -44,6 +44,14 @@ You can also directly download our finetuned checkpoints for these four MLLMs in
 ## Contact
 For any issue or question, kindly contact us per E-Mail: Haowei Zhang (haowei.zhang@tum.de)
 
+## Acknowledgement
+The code is partly based on the following repos, thank so much to all the contributors!
+
+[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
+[LLaVA](https://github.com/haotian-liu/LLaVA)
+[Qwen-VL](https://github.com/QwenLM/Qwen-VL)
+[InternVL](https://github.com/OpenGVLab/InternVL)
+
 ## Citation
 
 If you find this work useful, please consider giving this repository a star and citing our paper:
