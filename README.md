@@ -87,7 +87,10 @@ You can also directly download our finetuned checkpoints of these four MLLMs in 
 ### 2. VQA Accuracy
 
 ### 3. Whether2Deco Accuracy
-
+```
+python ../evaluation/Whether2Deco/Whether2Deco_acc.py \
+    --pred_path ../output/Whether2Deco/MiniGPT-v2/minigptv2_whether2deco_output.json
+```
 
 ## Contact
 For any issue or question, kindly contact us per E-Mail: Haowei Zhang (haowei.zhang@tum.de).
