@@ -47,10 +47,10 @@ For any issue or question, kindly contact us per E-Mail: Haowei Zhang (haowei.zh
 ## Acknowledgement
 The code is partly based on the following repos, thank so much to all the contributors!
 
-[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
-[LLaVA](https://github.com/haotian-liu/LLaVA)
-[Qwen-VL](https://github.com/QwenLM/Qwen-VL)
-[InternVL](https://github.com/OpenGVLab/InternVL)
+- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
+- [LLaVA](https://github.com/haotian-liu/LLaVA)
+- [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
+- [InternVL](https://github.com/OpenGVLab/InternVL)
 
 ## Citation
 
