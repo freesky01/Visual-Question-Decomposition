@@ -1,7 +1,7 @@
 [
     {
         "id": "000000505343",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000505343.jpg",
+        "image": "finetuning_COCO_images/000000505343.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -31,7 +31,7 @@
     },
     {
         "id": "000000064731",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000064731.jpg",
+        "image": "finetuning_COCO_images/000000064731.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -45,7 +45,7 @@
     },
     {
         "id": "000000249128",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000249128.jpg",
+        "image": "finetuning_COCO_images/000000249128.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -75,7 +75,7 @@
     },
     {
         "id": "000000044788",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000044788.jpg",
+        "image": "finetuning_COCO_images/000000044788.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -105,7 +105,7 @@
     },
     {
         "id": "000000067078",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000067078.jpg",
+        "image": "finetuning_COCO_images/000000067078.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -135,7 +135,7 @@
     },
     {
         "id": "000000228624",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000228624.jpg",
+        "image": "finetuning_COCO_images/000000228624.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -165,7 +165,7 @@
     },
     {
         "id": "000000028069",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000028069.jpg",
+        "image": "finetuning_COCO_images/000000028069.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -195,7 +195,7 @@
     },
     {
         "id": "000000071345",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000071345.jpg",
+        "image": "finetuning_COCO_images/000000071345.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -209,7 +209,7 @@
     },
     {
         "id": "000000268469",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000268469.jpg",
+        "image": "finetuning_COCO_images/000000268469.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -239,7 +239,7 @@
     },
     {
         "id": "000000515937",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000515937.jpg",
+        "image": "finetuning_COCO_images/000000515937.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -253,7 +253,7 @@
     },
     {
         "id": "000000048163",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000048163.jpg",
+        "image": "finetuning_COCO_images/000000048163.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -283,7 +283,7 @@
     },
     {
         "id": "000000080941",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000080941.jpg",
+        "image": "finetuning_COCO_images/000000080941.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -313,7 +313,7 @@
     },
     {
         "id": "000000153727",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000153727.jpg",
+        "image": "finetuning_COCO_images/000000153727.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -343,7 +343,7 @@
     },
     {
         "id": "000000017352",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000017352.jpg",
+        "image": "finetuning_COCO_images/000000017352.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -357,7 +357,7 @@
     },
     {
         "id": "000000035145",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000035145.jpg",
+        "image": "finetuning_COCO_images/000000035145.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -387,7 +387,7 @@
     },
     {
         "id": "000000558444",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000558444.jpg",
+        "image": "finetuning_COCO_images/000000558444.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -417,7 +417,7 @@
     },
     {
         "id": "000000311385",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000311385.jpg",
+        "image": "finetuning_COCO_images/000000311385.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -431,7 +431,7 @@
     },
     {
         "id": "000000300368",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000300368.jpg",
+        "image": "finetuning_COCO_images/000000300368.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -461,7 +461,7 @@
     },
     {
         "id": "000000045926",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000045926.jpg",
+        "image": "finetuning_COCO_images/000000045926.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -475,7 +475,7 @@
     },
     {
         "id": "000000002555",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000002555.jpg",
+        "image": "finetuning_COCO_images/000000002555.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -505,7 +505,7 @@
     },
     {
         "id": "000000000982",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000000982.jpg",
+        "image": "finetuning_COCO_images/000000000982.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -519,7 +519,7 @@
     },
     {
         "id": "000000019060",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000019060.jpg",
+        "image": "finetuning_COCO_images/000000019060.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -549,7 +549,7 @@
     },
     {
         "id": "000000226654",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000226654.jpg",
+        "image": "finetuning_COCO_images/000000226654.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -563,7 +563,7 @@
     },
     {
         "id": "000000406244",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000406244.jpg",
+        "image": "finetuning_COCO_images/000000406244.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -577,7 +577,7 @@
     },
     {
         "id": "000000066085",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000066085.jpg",
+        "image": "finetuning_COCO_images/000000066085.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -591,7 +591,7 @@
     },
     {
         "id": "000000057224",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000057224.jpg",
+        "image": "finetuning_COCO_images/000000057224.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -621,7 +621,7 @@
     },
     {
         "id": "000000147105",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000147105.jpg",
+        "image": "finetuning_COCO_images/000000147105.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -651,7 +651,7 @@
     },
     {
         "id": "000000376549",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000376549.jpg",
+        "image": "finetuning_COCO_images/000000376549.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -681,7 +681,7 @@
     },
     {
         "id": "000000511407",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000511407.jpg",
+        "image": "finetuning_COCO_images/000000511407.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -695,7 +695,7 @@
     },
     {
         "id": "000000173221",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000173221.jpg",
+        "image": "finetuning_COCO_images/000000173221.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -709,7 +709,7 @@
     },
     {
         "id": "000000064906",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000064906.jpg",
+        "image": "finetuning_COCO_images/000000064906.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -723,7 +723,7 @@
     },
     {
         "id": "000000035382",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000035382.jpg",
+        "image": "finetuning_COCO_images/000000035382.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -737,7 +737,7 @@
     },
     {
         "id": "000000041082",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000041082.jpg",
+        "image": "finetuning_COCO_images/000000041082.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -751,7 +751,7 @@
     },
     {
         "id": "000000038561",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000038561.jpg",
+        "image": "finetuning_COCO_images/000000038561.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -765,7 +765,7 @@
     },
     {
         "id": "000000309371",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000309371.jpg",
+        "image": "finetuning_COCO_images/000000309371.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -795,7 +795,7 @@
     },
     {
         "id": "000000058524",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000058524.jpg",
+        "image": "finetuning_COCO_images/000000058524.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -809,7 +809,7 @@
     },
     {
         "id": "000000005210",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000005210.jpg",
+        "image": "finetuning_COCO_images/000000005210.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -823,7 +823,7 @@
     },
     {
         "id": "000000003939",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000003939.jpg",
+        "image": "finetuning_COCO_images/000000003939.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -853,7 +853,7 @@
     },
     {
         "id": "000000067347",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000067347.jpg",
+        "image": "finetuning_COCO_images/000000067347.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -867,7 +867,7 @@
     },
     {
         "id": "000000547693",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000547693.jpg",
+        "image": "finetuning_COCO_images/000000547693.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -897,7 +897,7 @@
     },
     {
         "id": "000000044840",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000044840.jpg",
+        "image": "finetuning_COCO_images/000000044840.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -911,7 +911,7 @@
     },
     {
         "id": "000000296162",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000296162.jpg",
+        "image": "finetuning_COCO_images/000000296162.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -925,7 +925,7 @@
     },
     {
         "id": "000000072993",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000072993.jpg",
+        "image": "finetuning_COCO_images/000000072993.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -939,7 +939,7 @@
     },
     {
         "id": "000000186130",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000186130.jpg",
+        "image": "finetuning_COCO_images/000000186130.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -969,7 +969,7 @@
     },
     {
         "id": "000000524575",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000524575.jpg",
+        "image": "finetuning_COCO_images/000000524575.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -983,7 +983,7 @@
     },
     {
         "id": "000000522464",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000522464.jpg",
+        "image": "finetuning_COCO_images/000000522464.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1013,7 +1013,7 @@
     },
     {
         "id": "000000049363",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000049363.jpg",
+        "image": "finetuning_COCO_images/000000049363.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1043,7 +1043,7 @@
     },
     {
         "id": "000000416598",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000416598.jpg",
+        "image": "finetuning_COCO_images/000000416598.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1057,7 +1057,7 @@
     },
     {
         "id": "000000000071",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000000071.jpg",
+        "image": "finetuning_COCO_images/000000000071.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1071,7 +1071,7 @@
     },
     {
         "id": "000000045617",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000045617.jpg",
+        "image": "finetuning_COCO_images/000000045617.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1101,7 +1101,7 @@
     },
     {
         "id": "000000532976",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000532976.jpg",
+        "image": "finetuning_COCO_images/000000532976.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1131,7 +1131,7 @@
     },
     {
         "id": "000000029538",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000029538.jpg",
+        "image": "finetuning_COCO_images/000000029538.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1161,7 +1161,7 @@
     },
     {
         "id": "000000455536",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000455536.jpg",
+        "image": "finetuning_COCO_images/000000455536.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1175,7 +1175,7 @@
     },
     {
         "id": "000000079441",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000079441.jpg",
+        "image": "finetuning_COCO_images/000000079441.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1189,7 +1189,7 @@
     },
     {
         "id": "000000066266",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000066266.jpg",
+        "image": "finetuning_COCO_images/000000066266.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1203,7 +1203,7 @@
     },
     {
         "id": "000000284355",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000284355.jpg",
+        "image": "finetuning_COCO_images/000000284355.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1217,7 +1217,7 @@
     },
     {
         "id": "000000270612",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000270612.jpg",
+        "image": "finetuning_COCO_images/000000270612.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1231,7 +1231,7 @@
     },
     {
         "id": "000000153462",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000153462.jpg",
+        "image": "finetuning_COCO_images/000000153462.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1245,7 +1245,7 @@
     },
     {
         "id": "000000052192",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000052192.jpg",
+        "image": "finetuning_COCO_images/000000052192.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1259,7 +1259,7 @@
     },
     {
         "id": "000000371945",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000371945.jpg",
+        "image": "finetuning_COCO_images/000000371945.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1273,7 +1273,7 @@
     },
     {
         "id": "000000162993",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000162993.jpg",
+        "image": "finetuning_COCO_images/000000162993.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1287,7 +1287,7 @@
     },
     {
         "id": "000000069344",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000069344.jpg",
+        "image": "finetuning_COCO_images/000000069344.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1317,7 +1317,7 @@
     },
     {
         "id": "000000052938",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000052938.jpg",
+        "image": "finetuning_COCO_images/000000052938.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1331,7 +1331,7 @@
     },
     {
         "id": "000000556892",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000556892.jpg",
+        "image": "finetuning_COCO_images/000000556892.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1345,7 +1345,7 @@
     },
     {
         "id": "000000024498",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000024498.jpg",
+        "image": "finetuning_COCO_images/000000024498.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1359,7 +1359,7 @@
     },
     {
         "id": "000000008284",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000008284.jpg",
+        "image": "finetuning_COCO_images/000000008284.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1389,7 +1389,7 @@
     },
     {
         "id": "000000456696",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000456696.jpg",
+        "image": "finetuning_COCO_images/000000456696.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1403,7 +1403,7 @@
     },
     {
         "id": "000000028853",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000028853.jpg",
+        "image": "finetuning_COCO_images/000000028853.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1417,7 +1417,7 @@
     },
     {
         "id": "000000274105",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000274105.jpg",
+        "image": "finetuning_COCO_images/000000274105.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1431,7 +1431,7 @@
     },
     {
         "id": "000000031324",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000031324.jpg",
+        "image": "finetuning_COCO_images/000000031324.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1445,7 +1445,7 @@
     },
     {
         "id": "000000001375",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000001375.jpg",
+        "image": "finetuning_COCO_images/000000001375.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1475,7 +1475,7 @@
     },
     {
         "id": "000000175804",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000175804.jpg",
+        "image": "finetuning_COCO_images/000000175804.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1505,7 +1505,7 @@
     },
     {
         "id": "000000027764",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000027764.jpg",
+        "image": "finetuning_COCO_images/000000027764.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1519,7 +1519,7 @@
     },
     {
         "id": "000000053756",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000053756.jpg",
+        "image": "finetuning_COCO_images/000000053756.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1533,7 +1533,7 @@
     },
     {
         "id": "000000020769",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000020769.jpg",
+        "image": "finetuning_COCO_images/000000020769.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1547,7 +1547,7 @@
     },
     {
         "id": "000000207094",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000207094.jpg",
+        "image": "finetuning_COCO_images/000000207094.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1577,7 +1577,7 @@
     },
     {
         "id": "000000082909",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000082909.jpg",
+        "image": "finetuning_COCO_images/000000082909.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1591,7 +1591,7 @@
     },
     {
         "id": "000000569505",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000569505.jpg",
+        "image": "finetuning_COCO_images/000000569505.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1621,7 +1621,7 @@
     },
     {
         "id": "000000056800",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000056800.jpg",
+        "image": "finetuning_COCO_images/000000056800.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1651,7 +1651,7 @@
     },
     {
         "id": "000000444503",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000444503.jpg",
+        "image": "finetuning_COCO_images/000000444503.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1681,7 +1681,7 @@
     },
     {
         "id": "000000073843",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000073843.jpg",
+        "image": "finetuning_COCO_images/000000073843.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1695,7 +1695,7 @@
     },
     {
         "id": "000000056365",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000056365.jpg",
+        "image": "finetuning_COCO_images/000000056365.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1709,7 +1709,7 @@
     },
     {
         "id": "000000043561",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000043561.jpg",
+        "image": "finetuning_COCO_images/000000043561.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1723,7 +1723,7 @@
     },
     {
         "id": "000000019852",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000019852.jpg",
+        "image": "finetuning_COCO_images/000000019852.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1737,7 +1737,7 @@
     },
     {
         "id": "000000004065",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000004065.jpg",
+        "image": "finetuning_COCO_images/000000004065.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1767,7 +1767,7 @@
     },
     {
         "id": "000000159768",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000159768.jpg",
+        "image": "finetuning_COCO_images/000000159768.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1797,7 +1797,7 @@
     },
     {
         "id": "000000552467",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000552467.jpg",
+        "image": "finetuning_COCO_images/000000552467.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1827,7 +1827,7 @@
     },
     {
         "id": "000000574885",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000574885.jpg",
+        "image": "finetuning_COCO_images/000000574885.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1857,7 +1857,7 @@
     },
     {
         "id": "000000057500",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000057500.jpg",
+        "image": "finetuning_COCO_images/000000057500.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1871,7 +1871,7 @@
     },
     {
         "id": "000000581071",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000581071.jpg",
+        "image": "finetuning_COCO_images/000000581071.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1901,7 +1901,7 @@
     },
     {
         "id": "000000027330",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000027330.jpg",
+        "image": "finetuning_COCO_images/000000027330.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1915,7 +1915,7 @@
     },
     {
         "id": "000000221916",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000221916.jpg",
+        "image": "finetuning_COCO_images/000000221916.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1929,7 +1929,7 @@
     },
     {
         "id": "000000451554",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000451554.jpg",
+        "image": "finetuning_COCO_images/000000451554.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1959,7 +1959,7 @@
     },
     {
         "id": "000000000394",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000000394.jpg",
+        "image": "finetuning_COCO_images/000000000394.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -1973,7 +1973,7 @@
     },
     {
         "id": "000000433941",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000433941.jpg",
+        "image": "finetuning_COCO_images/000000433941.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2003,7 +2003,7 @@
     },
     {
         "id": "000000430192",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000430192.jpg",
+        "image": "finetuning_COCO_images/000000430192.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2017,7 +2017,7 @@
     },
     {
         "id": "000000498687",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000498687.jpg",
+        "image": "finetuning_COCO_images/000000498687.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2031,7 +2031,7 @@
     },
     {
         "id": "000000530777",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000530777.jpg",
+        "image": "finetuning_COCO_images/000000530777.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2045,7 +2045,7 @@
     },
     {
         "id": "000000523985",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000523985.jpg",
+        "image": "finetuning_COCO_images/000000523985.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2059,7 +2059,7 @@
     },
     {
         "id": "000000230468",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000230468.jpg",
+        "image": "finetuning_COCO_images/000000230468.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2089,7 +2089,7 @@
     },
     {
         "id": "000000572430",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000572430.jpg",
+        "image": "finetuning_COCO_images/000000572430.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2119,7 +2119,7 @@
     },
     {
         "id": "000000528579",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000528579.jpg",
+        "image": "finetuning_COCO_images/000000528579.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2149,7 +2149,7 @@
     },
     {
         "id": "000000544325",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000544325.jpg",
+        "image": "finetuning_COCO_images/000000544325.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2179,7 +2179,7 @@
     },
     {
         "id": "000000567665",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000567665.jpg",
+        "image": "finetuning_COCO_images/000000567665.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2209,7 +2209,7 @@
     },
     {
         "id": "000000084851",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000084851.jpg",
+        "image": "finetuning_COCO_images/000000084851.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2239,7 +2239,7 @@
     },
     {
         "id": "000000016111",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000016111.jpg",
+        "image": "finetuning_COCO_images/000000016111.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2253,7 +2253,7 @@
     },
     {
         "id": "000000434873",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000434873.jpg",
+        "image": "finetuning_COCO_images/000000434873.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2283,7 +2283,7 @@
     },
     {
         "id": "000000248702",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000248702.jpg",
+        "image": "finetuning_COCO_images/000000248702.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2313,7 +2313,7 @@
     },
     {
         "id": "000000243896",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000243896.jpg",
+        "image": "finetuning_COCO_images/000000243896.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2343,7 +2343,7 @@
     },
     {
         "id": "000000001330",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000001330.jpg",
+        "image": "finetuning_COCO_images/000000001330.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2357,7 +2357,7 @@
     },
     {
         "id": "000000059024",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000059024.jpg",
+        "image": "finetuning_COCO_images/000000059024.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2387,7 +2387,7 @@
     },
     {
         "id": "000000267734",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000267734.jpg",
+        "image": "finetuning_COCO_images/000000267734.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2401,7 +2401,7 @@
     },
     {
         "id": "000000518303",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000518303.jpg",
+        "image": "finetuning_COCO_images/000000518303.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2431,7 +2431,7 @@
     },
     {
         "id": "000000368994",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000368994.jpg",
+        "image": "finetuning_COCO_images/000000368994.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2445,7 +2445,7 @@
     },
     {
         "id": "000000551590",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000551590.jpg",
+        "image": "finetuning_COCO_images/000000551590.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2475,7 +2475,7 @@
     },
     {
         "id": "000000207898",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000207898.jpg",
+        "image": "finetuning_COCO_images/000000207898.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2489,7 +2489,7 @@
     },
     {
         "id": "000000027902",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000027902.jpg",
+        "image": "finetuning_COCO_images/000000027902.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2519,7 +2519,7 @@
     },
     {
         "id": "000000021972",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000021972.jpg",
+        "image": "finetuning_COCO_images/000000021972.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2549,7 +2549,7 @@
     },
     {
         "id": "000000336675",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000336675.jpg",
+        "image": "finetuning_COCO_images/000000336675.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2563,7 +2563,7 @@
     },
     {
         "id": "000000352680",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000352680.jpg",
+        "image": "finetuning_COCO_images/000000352680.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2593,7 +2593,7 @@
     },
     {
         "id": "000000213381",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000213381.jpg",
+        "image": "finetuning_COCO_images/000000213381.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2623,7 +2623,7 @@
     },
     {
         "id": "000000571916",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000571916.jpg",
+        "image": "finetuning_COCO_images/000000571916.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2653,7 +2653,7 @@
     },
     {
         "id": "000000005253",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000005253.jpg",
+        "image": "finetuning_COCO_images/000000005253.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2667,7 +2667,7 @@
     },
     {
         "id": "000000535460",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000535460.jpg",
+        "image": "finetuning_COCO_images/000000535460.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2697,7 +2697,7 @@
     },
     {
         "id": "000000044782",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000044782.jpg",
+        "image": "finetuning_COCO_images/000000044782.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2711,7 +2711,7 @@
     },
     {
         "id": "000000137826",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000137826.jpg",
+        "image": "finetuning_COCO_images/000000137826.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2741,7 +2741,7 @@
     },
     {
         "id": "000000466406",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000466406.jpg",
+        "image": "finetuning_COCO_images/000000466406.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2771,7 +2771,7 @@
     },
     {
         "id": "000000018059",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000018059.jpg",
+        "image": "finetuning_COCO_images/000000018059.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2801,7 +2801,7 @@
     },
     {
         "id": "000000052886",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000052886.jpg",
+        "image": "finetuning_COCO_images/000000052886.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2815,7 +2815,7 @@
     },
     {
         "id": "000000478118",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000478118.jpg",
+        "image": "finetuning_COCO_images/000000478118.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2845,7 +2845,7 @@
     },
     {
         "id": "000000368521",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000368521.jpg",
+        "image": "finetuning_COCO_images/000000368521.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2875,7 +2875,7 @@
     },
     {
         "id": "000000043511",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000043511.jpg",
+        "image": "finetuning_COCO_images/000000043511.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2905,7 +2905,7 @@
     },
     {
         "id": "000000402248",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000402248.jpg",
+        "image": "finetuning_COCO_images/000000402248.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2935,7 +2935,7 @@
     },
     {
         "id": "000000021711",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000021711.jpg",
+        "image": "finetuning_COCO_images/000000021711.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2949,7 +2949,7 @@
     },
     {
         "id": "000000028276",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000028276.jpg",
+        "image": "finetuning_COCO_images/000000028276.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2963,7 +2963,7 @@
     },
     {
         "id": "000000380057",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000380057.jpg",
+        "image": "finetuning_COCO_images/000000380057.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2977,7 +2977,7 @@
     },
     {
         "id": "000000025820",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000025820.jpg",
+        "image": "finetuning_COCO_images/000000025820.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -2991,7 +2991,7 @@
     },
     {
         "id": "000000081622",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000081622.jpg",
+        "image": "finetuning_COCO_images/000000081622.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3005,7 +3005,7 @@
     },
     {
         "id": "000000010478",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000010478.jpg",
+        "image": "finetuning_COCO_images/000000010478.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3019,7 +3019,7 @@
     },
     {
         "id": "000000006539",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000006539.jpg",
+        "image": "finetuning_COCO_images/000000006539.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3033,7 +3033,7 @@
     },
     {
         "id": "000000022478",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000022478.jpg",
+        "image": "finetuning_COCO_images/000000022478.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3047,7 +3047,7 @@
     },
     {
         "id": "000000068789",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000068789.jpg",
+        "image": "finetuning_COCO_images/000000068789.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3061,7 +3061,7 @@
     },
     {
         "id": "000000573968",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000573968.jpg",
+        "image": "finetuning_COCO_images/000000573968.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3091,7 +3091,7 @@
     },
     {
         "id": "000000105866",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000105866.jpg",
+        "image": "finetuning_COCO_images/000000105866.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3121,7 +3121,7 @@
     },
     {
         "id": "000000558018",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000558018.jpg",
+        "image": "finetuning_COCO_images/000000558018.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3135,7 +3135,7 @@
     },
     {
         "id": "000000022882",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000022882.jpg",
+        "image": "finetuning_COCO_images/000000022882.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3165,7 +3165,7 @@
     },
     {
         "id": "000000060953",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000060953.jpg",
+        "image": "finetuning_COCO_images/000000060953.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3195,7 +3195,7 @@
     },
     {
         "id": "000000075821",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000075821.jpg",
+        "image": "finetuning_COCO_images/000000075821.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3209,7 +3209,7 @@
     },
     {
         "id": "000000380828",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000380828.jpg",
+        "image": "finetuning_COCO_images/000000380828.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3239,7 +3239,7 @@
     },
     {
         "id": "000000559073",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000559073.jpg",
+        "image": "finetuning_COCO_images/000000559073.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3269,7 +3269,7 @@
     },
     {
         "id": "000000054363",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000054363.jpg",
+        "image": "finetuning_COCO_images/000000054363.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3283,7 +3283,7 @@
     },
     {
         "id": "000000492736",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000492736.jpg",
+        "image": "finetuning_COCO_images/000000492736.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3297,7 +3297,7 @@
     },
     {
         "id": "000000307567",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000307567.jpg",
+        "image": "finetuning_COCO_images/000000307567.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3311,7 +3311,7 @@
     },
     {
         "id": "000000053733",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000053733.jpg",
+        "image": "finetuning_COCO_images/000000053733.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3325,7 +3325,7 @@
     },
     {
         "id": "000000189241",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000189241.jpg",
+        "image": "finetuning_COCO_images/000000189241.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3339,7 +3339,7 @@
     },
     {
         "id": "000000036915",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000036915.jpg",
+        "image": "finetuning_COCO_images/000000036915.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3353,7 +3353,7 @@
     },
     {
         "id": "000000175570",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000175570.jpg",
+        "image": "finetuning_COCO_images/000000175570.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3383,7 +3383,7 @@
     },
     {
         "id": "000000059080",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000059080.jpg",
+        "image": "finetuning_COCO_images/000000059080.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3413,7 +3413,7 @@
     },
     {
         "id": "000000024847",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000024847.jpg",
+        "image": "finetuning_COCO_images/000000024847.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3427,7 +3427,7 @@
     },
     {
         "id": "000000045836",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000045836.jpg",
+        "image": "finetuning_COCO_images/000000045836.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3441,7 +3441,7 @@
     },
     {
         "id": "000000086738",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000086738.jpg",
+        "image": "finetuning_COCO_images/000000086738.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3471,7 +3471,7 @@
     },
     {
         "id": "000000350028",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000350028.jpg",
+        "image": "finetuning_COCO_images/000000350028.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3485,7 +3485,7 @@
     },
     {
         "id": "000000051076",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000051076.jpg",
+        "image": "finetuning_COCO_images/000000051076.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3499,7 +3499,7 @@
     },
     {
         "id": "000000438721",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000438721.jpg",
+        "image": "finetuning_COCO_images/000000438721.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3529,7 +3529,7 @@
     },
     {
         "id": "000000386062",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000386062.jpg",
+        "image": "finetuning_COCO_images/000000386062.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3559,7 +3559,7 @@
     },
     {
         "id": "000000012993",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000012993.jpg",
+        "image": "finetuning_COCO_images/000000012993.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3589,7 +3589,7 @@
     },
     {
         "id": "000000015110",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000015110.jpg",
+        "image": "finetuning_COCO_images/000000015110.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3619,7 +3619,7 @@
     },
     {
         "id": "000000435764",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000435764.jpg",
+        "image": "finetuning_COCO_images/000000435764.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3649,7 +3649,7 @@
     },
     {
         "id": "000000007174",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000007174.jpg",
+        "image": "finetuning_COCO_images/000000007174.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3663,7 +3663,7 @@
     },
     {
         "id": "000000024980",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000024980.jpg",
+        "image": "finetuning_COCO_images/000000024980.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3677,7 +3677,7 @@
     },
     {
         "id": "000000326504",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000326504.jpg",
+        "image": "finetuning_COCO_images/000000326504.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3707,7 +3707,7 @@
     },
     {
         "id": "000000065891",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000065891.jpg",
+        "image": "finetuning_COCO_images/000000065891.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3721,7 +3721,7 @@
     },
     {
         "id": "000000057523",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000057523.jpg",
+        "image": "finetuning_COCO_images/000000057523.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3735,7 +3735,7 @@
     },
     {
         "id": "000000534735",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000534735.jpg",
+        "image": "finetuning_COCO_images/000000534735.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3765,7 +3765,7 @@
     },
     {
         "id": "000000061527",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000061527.jpg",
+        "image": "finetuning_COCO_images/000000061527.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3795,7 +3795,7 @@
     },
     {
         "id": "000000080549",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000080549.jpg",
+        "image": "finetuning_COCO_images/000000080549.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3809,7 +3809,7 @@
     },
     {
         "id": "000000009895",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000009895.jpg",
+        "image": "finetuning_COCO_images/000000009895.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3839,7 +3839,7 @@
     },
     {
         "id": "000000006753",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000006753.jpg",
+        "image": "finetuning_COCO_images/000000006753.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3869,7 +3869,7 @@
     },
     {
         "id": "000000281701",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000281701.jpg",
+        "image": "finetuning_COCO_images/000000281701.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3899,7 +3899,7 @@
     },
     {
         "id": "000000288943",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000288943.jpg",
+        "image": "finetuning_COCO_images/000000288943.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3929,7 +3929,7 @@
     },
     {
         "id": "000000005482",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000005482.jpg",
+        "image": "finetuning_COCO_images/000000005482.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3959,7 +3959,7 @@
     },
     {
         "id": "000000572469",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000572469.jpg",
+        "image": "finetuning_COCO_images/000000572469.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -3989,7 +3989,7 @@
     },
     {
         "id": "000000032115",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000032115.jpg",
+        "image": "finetuning_COCO_images/000000032115.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4019,7 +4019,7 @@
     },
     {
         "id": "000000402359",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000402359.jpg",
+        "image": "finetuning_COCO_images/000000402359.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4049,7 +4049,7 @@
     },
     {
         "id": "000000429174",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000429174.jpg",
+        "image": "finetuning_COCO_images/000000429174.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4063,7 +4063,7 @@
     },
     {
         "id": "000000080651",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000080651.jpg",
+        "image": "finetuning_COCO_images/000000080651.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4077,7 +4077,7 @@
     },
     {
         "id": "000000111768",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000111768.jpg",
+        "image": "finetuning_COCO_images/000000111768.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4107,7 +4107,7 @@
     },
     {
         "id": "000000562876",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000562876.jpg",
+        "image": "finetuning_COCO_images/000000562876.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4137,7 +4137,7 @@
     },
     {
         "id": "000000342051",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000342051.jpg",
+        "image": "finetuning_COCO_images/000000342051.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4151,7 +4151,7 @@
     },
     {
         "id": "000000018250",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000018250.jpg",
+        "image": "finetuning_COCO_images/000000018250.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4165,7 +4165,7 @@
     },
     {
         "id": "000000128829",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000128829.jpg",
+        "image": "finetuning_COCO_images/000000128829.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4195,7 +4195,7 @@
     },
     {
         "id": "000000317851",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000317851.jpg",
+        "image": "finetuning_COCO_images/000000317851.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4209,7 +4209,7 @@
     },
     {
         "id": "000000575294",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000575294.jpg",
+        "image": "finetuning_COCO_images/000000575294.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4239,7 +4239,7 @@
     },
     {
         "id": "000000558871",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000558871.jpg",
+        "image": "finetuning_COCO_images/000000558871.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4269,7 +4269,7 @@
     },
     {
         "id": "000000112573",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000112573.jpg",
+        "image": "finetuning_COCO_images/000000112573.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4283,7 +4283,7 @@
     },
     {
         "id": "000000030328",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000030328.jpg",
+        "image": "finetuning_COCO_images/000000030328.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4297,7 +4297,7 @@
     },
     {
         "id": "000000105139",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000105139.jpg",
+        "image": "finetuning_COCO_images/000000105139.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4311,7 +4311,7 @@
     },
     {
         "id": "000000119247",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000119247.jpg",
+        "image": "finetuning_COCO_images/000000119247.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4341,7 +4341,7 @@
     },
     {
         "id": "000000085706",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000085706.jpg",
+        "image": "finetuning_COCO_images/000000085706.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4371,7 +4371,7 @@
     },
     {
         "id": "000000198936",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000198936.jpg",
+        "image": "finetuning_COCO_images/000000198936.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4401,7 +4401,7 @@
     },
     {
         "id": "000000062279",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000062279.jpg",
+        "image": "finetuning_COCO_images/000000062279.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4415,7 +4415,7 @@
     },
     {
         "id": "000000317981",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000317981.jpg",
+        "image": "finetuning_COCO_images/000000317981.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4429,7 +4429,7 @@
     },
     {
         "id": "000000490647",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000490647.jpg",
+        "image": "finetuning_COCO_images/000000490647.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4459,7 +4459,7 @@
     },
     {
         "id": "000000459346",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000459346.jpg",
+        "image": "finetuning_COCO_images/000000459346.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4473,7 +4473,7 @@
     },
     {
         "id": "000000324626",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000324626.jpg",
+        "image": "finetuning_COCO_images/000000324626.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4487,7 +4487,7 @@
     },
     {
         "id": "000000551169",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000551169.jpg",
+        "image": "finetuning_COCO_images/000000551169.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4517,7 +4517,7 @@
     },
     {
         "id": "000000076334",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000076334.jpg",
+        "image": "finetuning_COCO_images/000000076334.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4547,7 +4547,7 @@
     },
     {
         "id": "000000007090",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000007090.jpg",
+        "image": "finetuning_COCO_images/000000007090.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4577,7 +4577,7 @@
     },
     {
         "id": "000000050366",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000050366.jpg",
+        "image": "finetuning_COCO_images/000000050366.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4607,7 +4607,7 @@
     },
     {
         "id": "000000552380",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000552380.jpg",
+        "image": "finetuning_COCO_images/000000552380.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4637,7 +4637,7 @@
     },
     {
         "id": "000000058869",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000058869.jpg",
+        "image": "finetuning_COCO_images/000000058869.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4667,7 +4667,7 @@
     },
     {
         "id": "000000457986",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000457986.jpg",
+        "image": "finetuning_COCO_images/000000457986.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4697,7 +4697,7 @@
     },
     {
         "id": "000000335047",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000335047.jpg",
+        "image": "finetuning_COCO_images/000000335047.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4711,7 +4711,7 @@
     },
     {
         "id": "000000452622",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000452622.jpg",
+        "image": "finetuning_COCO_images/000000452622.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4741,7 +4741,7 @@
     },
     {
         "id": "000000278656",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000278656.jpg",
+        "image": "finetuning_COCO_images/000000278656.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4771,7 +4771,7 @@
     },
     {
         "id": "000000488033",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000488033.jpg",
+        "image": "finetuning_COCO_images/000000488033.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4785,7 +4785,7 @@
     },
     {
         "id": "000000009474",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000009474.jpg",
+        "image": "finetuning_COCO_images/000000009474.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4799,7 +4799,7 @@
     },
     {
         "id": "000000361055",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000361055.jpg",
+        "image": "finetuning_COCO_images/000000361055.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4829,7 +4829,7 @@
     },
     {
         "id": "000000005383",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000005383.jpg",
+        "image": "finetuning_COCO_images/000000005383.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4859,7 +4859,7 @@
     },
     {
         "id": "000000188405",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000188405.jpg",
+        "image": "finetuning_COCO_images/000000188405.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4873,7 +4873,7 @@
     },
     {
         "id": "000000060190",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000060190.jpg",
+        "image": "finetuning_COCO_images/000000060190.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4903,7 +4903,7 @@
     },
     {
         "id": "000000059494",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000059494.jpg",
+        "image": "finetuning_COCO_images/000000059494.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4933,7 +4933,7 @@
     },
     {
         "id": "000000061488",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000061488.jpg",
+        "image": "finetuning_COCO_images/000000061488.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4963,7 +4963,7 @@
     },
     {
         "id": "000000064270",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000064270.jpg",
+        "image": "finetuning_COCO_images/000000064270.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4977,7 +4977,7 @@
     },
     {
         "id": "000000481609",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000481609.jpg",
+        "image": "finetuning_COCO_images/000000481609.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -4991,7 +4991,7 @@
     },
     {
         "id": "000000069426",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000069426.jpg",
+        "image": "finetuning_COCO_images/000000069426.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5005,7 +5005,7 @@
     },
     {
         "id": "000000070804",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000070804.jpg",
+        "image": "finetuning_COCO_images/000000070804.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5019,7 +5019,7 @@
     },
     {
         "id": "000000535526",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000535526.jpg",
+        "image": "finetuning_COCO_images/000000535526.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5049,7 +5049,7 @@
     },
     {
         "id": "000000561593",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000561593.jpg",
+        "image": "finetuning_COCO_images/000000561593.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5079,7 +5079,7 @@
     },
     {
         "id": "000000561947",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000561947.jpg",
+        "image": "finetuning_COCO_images/000000561947.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5109,7 +5109,7 @@
     },
     {
         "id": "000000542180",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000542180.jpg",
+        "image": "finetuning_COCO_images/000000542180.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5123,7 +5123,7 @@
     },
     {
         "id": "000000056193",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000056193.jpg",
+        "image": "finetuning_COCO_images/000000056193.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5153,7 +5153,7 @@
     },
     {
         "id": "000000578250",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000578250.jpg",
+        "image": "finetuning_COCO_images/000000578250.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5183,7 +5183,7 @@
     },
     {
         "id": "000000017352",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000017352.jpg",
+        "image": "finetuning_COCO_images/000000017352.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5197,7 +5197,7 @@
     },
     {
         "id": "000000323934",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000323934.jpg",
+        "image": "finetuning_COCO_images/000000323934.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5211,7 +5211,7 @@
     },
     {
         "id": "000000031568",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000031568.jpg",
+        "image": "finetuning_COCO_images/000000031568.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5241,7 +5241,7 @@
     },
     {
         "id": "000000057868",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000057868.jpg",
+        "image": "finetuning_COCO_images/000000057868.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5255,7 +5255,7 @@
     },
     {
         "id": "000000446521",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000446521.jpg",
+        "image": "finetuning_COCO_images/000000446521.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5285,7 +5285,7 @@
     },
     {
         "id": "000000143576",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000143576.jpg",
+        "image": "finetuning_COCO_images/000000143576.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5315,7 +5315,7 @@
     },
     {
         "id": "000000064146",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000064146.jpg",
+        "image": "finetuning_COCO_images/000000064146.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5329,7 +5329,7 @@
     },
     {
         "id": "000000340998",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000340998.jpg",
+        "image": "finetuning_COCO_images/000000340998.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5359,7 +5359,7 @@
     },
     {
         "id": "000000132102",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000132102.jpg",
+        "image": "finetuning_COCO_images/000000132102.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5373,7 +5373,7 @@
     },
     {
         "id": "000000536761",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000536761.jpg",
+        "image": "finetuning_COCO_images/000000536761.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5403,7 +5403,7 @@
     },
     {
         "id": "000000039716",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000039716.jpg",
+        "image": "finetuning_COCO_images/000000039716.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5417,7 +5417,7 @@
     },
     {
         "id": "000000061755",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000061755.jpg",
+        "image": "finetuning_COCO_images/000000061755.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5447,7 +5447,7 @@
     },
     {
         "id": "000000363102",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000363102.jpg",
+        "image": "finetuning_COCO_images/000000363102.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5477,7 +5477,7 @@
     },
     {
         "id": "000000029438",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000029438.jpg",
+        "image": "finetuning_COCO_images/000000029438.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5491,7 +5491,7 @@
     },
     {
         "id": "000000303298",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000303298.jpg",
+        "image": "finetuning_COCO_images/000000303298.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5505,7 +5505,7 @@
     },
     {
         "id": "000000072424",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000072424.jpg",
+        "image": "finetuning_COCO_images/000000072424.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5519,7 +5519,7 @@
     },
     {
         "id": "000000040699",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000040699.jpg",
+        "image": "finetuning_COCO_images/000000040699.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5533,7 +5533,7 @@
     },
     {
         "id": "000000073707",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000073707.jpg",
+        "image": "finetuning_COCO_images/000000073707.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5547,7 +5547,7 @@
     },
     {
         "id": "000000183626",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000183626.jpg",
+        "image": "finetuning_COCO_images/000000183626.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5561,7 +5561,7 @@
     },
     {
         "id": "000000047905",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000047905.jpg",
+        "image": "finetuning_COCO_images/000000047905.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5591,7 +5591,7 @@
     },
     {
         "id": "000000005131",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000005131.jpg",
+        "image": "finetuning_COCO_images/000000005131.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5621,7 +5621,7 @@
     },
     {
         "id": "000000072969",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000072969.jpg",
+        "image": "finetuning_COCO_images/000000072969.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5635,7 +5635,7 @@
     },
     {
         "id": "000000223670",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000223670.jpg",
+        "image": "finetuning_COCO_images/000000223670.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5665,7 +5665,7 @@
     },
     {
         "id": "000000169575",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000169575.jpg",
+        "image": "finetuning_COCO_images/000000169575.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5679,7 +5679,7 @@
     },
     {
         "id": "000000074555",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000074555.jpg",
+        "image": "finetuning_COCO_images/000000074555.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5709,7 +5709,7 @@
     },
     {
         "id": "000000012460",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000012460.jpg",
+        "image": "finetuning_COCO_images/000000012460.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5723,7 +5723,7 @@
     },
     {
         "id": "000000185200",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000185200.jpg",
+        "image": "finetuning_COCO_images/000000185200.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5737,7 +5737,7 @@
     },
     {
         "id": "000000364031",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000364031.jpg",
+        "image": "finetuning_COCO_images/000000364031.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5767,7 +5767,7 @@
     },
     {
         "id": "000000005755",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000005755.jpg",
+        "image": "finetuning_COCO_images/000000005755.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5781,7 +5781,7 @@
     },
     {
         "id": "000000019431",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000019431.jpg",
+        "image": "finetuning_COCO_images/000000019431.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5795,7 +5795,7 @@
     },
     {
         "id": "000000294238",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000294238.jpg",
+        "image": "finetuning_COCO_images/000000294238.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5825,7 +5825,7 @@
     },
     {
         "id": "000000056435",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000056435.jpg",
+        "image": "finetuning_COCO_images/000000056435.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5839,7 +5839,7 @@
     },
     {
         "id": "000000550023",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000550023.jpg",
+        "image": "finetuning_COCO_images/000000550023.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5869,7 +5869,7 @@
     },
     {
         "id": "000000037209",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000037209.jpg",
+        "image": "finetuning_COCO_images/000000037209.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5883,7 +5883,7 @@
     },
     {
         "id": "000000075373",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000075373.jpg",
+        "image": "finetuning_COCO_images/000000075373.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5913,7 +5913,7 @@
     },
     {
         "id": "000000053670",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000053670.jpg",
+        "image": "finetuning_COCO_images/000000053670.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5927,7 +5927,7 @@
     },
     {
         "id": "000000043110",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000043110.jpg",
+        "image": "finetuning_COCO_images/000000043110.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5941,7 +5941,7 @@
     },
     {
         "id": "000000573300",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000573300.jpg",
+        "image": "finetuning_COCO_images/000000573300.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5955,7 +5955,7 @@
     },
     {
         "id": "000000018647",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000018647.jpg",
+        "image": "finetuning_COCO_images/000000018647.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5969,7 +5969,7 @@
     },
     {
         "id": "000000469961",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000469961.jpg",
+        "image": "finetuning_COCO_images/000000469961.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -5999,7 +5999,7 @@
     },
     {
         "id": "000000053806",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000053806.jpg",
+        "image": "finetuning_COCO_images/000000053806.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6029,7 +6029,7 @@
     },
     {
         "id": "000000250001",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000250001.jpg",
+        "image": "finetuning_COCO_images/000000250001.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6059,7 +6059,7 @@
     },
     {
         "id": "000000051070",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000051070.jpg",
+        "image": "finetuning_COCO_images/000000051070.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6073,7 +6073,7 @@
     },
     {
         "id": "000000494218",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000494218.jpg",
+        "image": "finetuning_COCO_images/000000494218.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6103,7 +6103,7 @@
     },
     {
         "id": "000000488118",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000488118.jpg",
+        "image": "finetuning_COCO_images/000000488118.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6133,7 +6133,7 @@
     },
     {
         "id": "000000033991",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000033991.jpg",
+        "image": "finetuning_COCO_images/000000033991.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6147,7 +6147,7 @@
     },
     {
         "id": "000000032949",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000032949.jpg",
+        "image": "finetuning_COCO_images/000000032949.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6161,7 +6161,7 @@
     },
     {
         "id": "000000160815",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000160815.jpg",
+        "image": "finetuning_COCO_images/000000160815.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6191,7 +6191,7 @@
     },
     {
         "id": "000000384023",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000384023.jpg",
+        "image": "finetuning_COCO_images/000000384023.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6205,7 +6205,7 @@
     },
     {
         "id": "000000551710",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000551710.jpg",
+        "image": "finetuning_COCO_images/000000551710.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6235,7 +6235,7 @@
     },
     {
         "id": "000000033828",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000033828.jpg",
+        "image": "finetuning_COCO_images/000000033828.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6249,7 +6249,7 @@
     },
     {
         "id": "000000047813",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000047813.jpg",
+        "image": "finetuning_COCO_images/000000047813.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6279,7 +6279,7 @@
     },
     {
         "id": "000000170077",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000170077.jpg",
+        "image": "finetuning_COCO_images/000000170077.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6309,7 +6309,7 @@
     },
     {
         "id": "000000035156",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000035156.jpg",
+        "image": "finetuning_COCO_images/000000035156.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6323,7 +6323,7 @@
     },
     {
         "id": "000000303626",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000303626.jpg",
+        "image": "finetuning_COCO_images/000000303626.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6337,7 +6337,7 @@
     },
     {
         "id": "000000565652",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000565652.jpg",
+        "image": "finetuning_COCO_images/000000565652.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6367,7 +6367,7 @@
     },
     {
         "id": "000000181948",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000181948.jpg",
+        "image": "finetuning_COCO_images/000000181948.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6381,7 +6381,7 @@
     },
     {
         "id": "000000071310",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000071310.jpg",
+        "image": "finetuning_COCO_images/000000071310.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6411,7 +6411,7 @@
     },
     {
         "id": "000000542674",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000542674.jpg",
+        "image": "finetuning_COCO_images/000000542674.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6441,7 +6441,7 @@
     },
     {
         "id": "000000435820",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000435820.jpg",
+        "image": "finetuning_COCO_images/000000435820.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6455,7 +6455,7 @@
     },
     {
         "id": "000000043583",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000043583.jpg",
+        "image": "finetuning_COCO_images/000000043583.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6485,7 +6485,7 @@
     },
     {
         "id": "000000401877",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000401877.jpg",
+        "image": "finetuning_COCO_images/000000401877.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6499,7 +6499,7 @@
     },
     {
         "id": "000000286328",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000286328.jpg",
+        "image": "finetuning_COCO_images/000000286328.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6513,7 +6513,7 @@
     },
     {
         "id": "000000018396",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000018396.jpg",
+        "image": "finetuning_COCO_images/000000018396.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6527,7 +6527,7 @@
     },
     {
         "id": "000000027041",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000027041.jpg",
+        "image": "finetuning_COCO_images/000000027041.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6541,7 +6541,7 @@
     },
     {
         "id": "000000369961",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000369961.jpg",
+        "image": "finetuning_COCO_images/000000369961.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6571,7 +6571,7 @@
     },
     {
         "id": "000000361139",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000361139.jpg",
+        "image": "finetuning_COCO_images/000000361139.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6601,7 +6601,7 @@
     },
     {
         "id": "000000444568",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000444568.jpg",
+        "image": "finetuning_COCO_images/000000444568.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6631,7 +6631,7 @@
     },
     {
         "id": "000000572036",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000572036.jpg",
+        "image": "finetuning_COCO_images/000000572036.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6661,7 +6661,7 @@
     },
     {
         "id": "000000012398",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000012398.jpg",
+        "image": "finetuning_COCO_images/000000012398.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6691,7 +6691,7 @@
     },
     {
         "id": "000000217522",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000217522.jpg",
+        "image": "finetuning_COCO_images/000000217522.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6705,7 +6705,7 @@
     },
     {
         "id": "000000044600",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000044600.jpg",
+        "image": "finetuning_COCO_images/000000044600.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6719,7 +6719,7 @@
     },
     {
         "id": "000000549459",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000549459.jpg",
+        "image": "finetuning_COCO_images/000000549459.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6749,7 +6749,7 @@
     },
     {
         "id": "000000580306",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000580306.jpg",
+        "image": "finetuning_COCO_images/000000580306.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6779,7 +6779,7 @@
     },
     {
         "id": "000000553284",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000553284.jpg",
+        "image": "finetuning_COCO_images/000000553284.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6809,7 +6809,7 @@
     },
     {
         "id": "000000051012",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000051012.jpg",
+        "image": "finetuning_COCO_images/000000051012.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6839,7 +6839,7 @@
     },
     {
         "id": "000000118019",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000118019.jpg",
+        "image": "finetuning_COCO_images/000000118019.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6869,7 +6869,7 @@
     },
     {
         "id": "000000326021",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000326021.jpg",
+        "image": "finetuning_COCO_images/000000326021.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6899,7 +6899,7 @@
     },
     {
         "id": "000000047563",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000047563.jpg",
+        "image": "finetuning_COCO_images/000000047563.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6913,7 +6913,7 @@
     },
     {
         "id": "000000562517",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000562517.jpg",
+        "image": "finetuning_COCO_images/000000562517.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6943,7 +6943,7 @@
     },
     {
         "id": "000000084277",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000084277.jpg",
+        "image": "finetuning_COCO_images/000000084277.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6957,7 +6957,7 @@
     },
     {
         "id": "000000002001",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000002001.jpg",
+        "image": "finetuning_COCO_images/000000002001.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6971,7 +6971,7 @@
     },
     {
         "id": "000000027544",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000027544.jpg",
+        "image": "finetuning_COCO_images/000000027544.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6985,7 +6985,7 @@
     },
     {
         "id": "000000002732",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000002732.jpg",
+        "image": "finetuning_COCO_images/000000002732.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -6999,7 +6999,7 @@
     },
     {
         "id": "000000390814",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000390814.jpg",
+        "image": "finetuning_COCO_images/000000390814.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7029,7 +7029,7 @@
     },
     {
         "id": "000000000025",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000000025.jpg",
+        "image": "finetuning_COCO_images/000000000025.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7043,7 +7043,7 @@
     },
     {
         "id": "000000019015",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000019015.jpg",
+        "image": "finetuning_COCO_images/000000019015.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7057,7 +7057,7 @@
     },
     {
         "id": "000000058973",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000058973.jpg",
+        "image": "finetuning_COCO_images/000000058973.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7071,7 +7071,7 @@
     },
     {
         "id": "000000059971",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000059971.jpg",
+        "image": "finetuning_COCO_images/000000059971.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7085,7 +7085,7 @@
     },
     {
         "id": "000000461408",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000461408.jpg",
+        "image": "finetuning_COCO_images/000000461408.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7099,7 +7099,7 @@
     },
     {
         "id": "000000034528",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000034528.jpg",
+        "image": "finetuning_COCO_images/000000034528.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7113,7 +7113,7 @@
     },
     {
         "id": "000000041952",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000041952.jpg",
+        "image": "finetuning_COCO_images/000000041952.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7127,7 +7127,7 @@
     },
     {
         "id": "000000532635",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000532635.jpg",
+        "image": "finetuning_COCO_images/000000532635.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7157,7 +7157,7 @@
     },
     {
         "id": "000000028116",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000028116.jpg",
+        "image": "finetuning_COCO_images/000000028116.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7187,7 +7187,7 @@
     },
     {
         "id": "000000047545",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000047545.jpg",
+        "image": "finetuning_COCO_images/000000047545.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7201,7 +7201,7 @@
     },
     {
         "id": "000000006101",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000006101.jpg",
+        "image": "finetuning_COCO_images/000000006101.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7231,7 +7231,7 @@
     },
     {
         "id": "000000556021",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000556021.jpg",
+        "image": "finetuning_COCO_images/000000556021.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7261,7 +7261,7 @@
     },
     {
         "id": "000000113716",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000113716.jpg",
+        "image": "finetuning_COCO_images/000000113716.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7275,7 +7275,7 @@
     },
     {
         "id": "000000056452",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000056452.jpg",
+        "image": "finetuning_COCO_images/000000056452.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7289,7 +7289,7 @@
     },
     {
         "id": "000000025616",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000025616.jpg",
+        "image": "finetuning_COCO_images/000000025616.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7319,7 +7319,7 @@
     },
     {
         "id": "000000560202",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000560202.jpg",
+        "image": "finetuning_COCO_images/000000560202.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7349,7 +7349,7 @@
     },
     {
         "id": "000000002545",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000002545.jpg",
+        "image": "finetuning_COCO_images/000000002545.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7379,7 +7379,7 @@
     },
     {
         "id": "000000257774",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000257774.jpg",
+        "image": "finetuning_COCO_images/000000257774.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7393,7 +7393,7 @@
     },
     {
         "id": "000000016706",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000016706.jpg",
+        "image": "finetuning_COCO_images/000000016706.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7407,7 +7407,7 @@
     },
     {
         "id": "000000255674",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000255674.jpg",
+        "image": "finetuning_COCO_images/000000255674.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7437,7 +7437,7 @@
     },
     {
         "id": "000000558634",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000558634.jpg",
+        "image": "finetuning_COCO_images/000000558634.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7467,7 +7467,7 @@
     },
     {
         "id": "000000576973",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000576973.jpg",
+        "image": "finetuning_COCO_images/000000576973.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7497,7 +7497,7 @@
     },
     {
         "id": "000000070434",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000070434.jpg",
+        "image": "finetuning_COCO_images/000000070434.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7511,7 +7511,7 @@
     },
     {
         "id": "000000570205",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000570205.jpg",
+        "image": "finetuning_COCO_images/000000570205.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7541,7 +7541,7 @@
     },
     {
         "id": "000000576550",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000576550.jpg",
+        "image": "finetuning_COCO_images/000000576550.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7571,7 +7571,7 @@
     },
     {
         "id": "000000570543",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000570543.jpg",
+        "image": "finetuning_COCO_images/000000570543.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7601,7 +7601,7 @@
     },
     {
         "id": "000000393075",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000393075.jpg",
+        "image": "finetuning_COCO_images/000000393075.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7631,7 +7631,7 @@
     },
     {
         "id": "000000538965",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000538965.jpg",
+        "image": "finetuning_COCO_images/000000538965.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7661,7 +7661,7 @@
     },
     {
         "id": "000000032301",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000032301.jpg",
+        "image": "finetuning_COCO_images/000000032301.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7675,7 +7675,7 @@
     },
     {
         "id": "000000009851",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000009851.jpg",
+        "image": "finetuning_COCO_images/000000009851.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7689,7 +7689,7 @@
     },
     {
         "id": "000000069874",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000069874.jpg",
+        "image": "finetuning_COCO_images/000000069874.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7719,7 +7719,7 @@
     },
     {
         "id": "000000017566",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000017566.jpg",
+        "image": "finetuning_COCO_images/000000017566.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7733,7 +7733,7 @@
     },
     {
         "id": "000000033435",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000033435.jpg",
+        "image": "finetuning_COCO_images/000000033435.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7747,7 +7747,7 @@
     },
     {
         "id": "000000251408",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000251408.jpg",
+        "image": "finetuning_COCO_images/000000251408.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7761,7 +7761,7 @@
     },
     {
         "id": "000000532065",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000532065.jpg",
+        "image": "finetuning_COCO_images/000000532065.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7791,7 +7791,7 @@
     },
     {
         "id": "000000558835",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000558835.jpg",
+        "image": "finetuning_COCO_images/000000558835.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7821,7 +7821,7 @@
     },
     {
         "id": "000000159823",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000159823.jpg",
+        "image": "finetuning_COCO_images/000000159823.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7835,7 +7835,7 @@
     },
     {
         "id": "000000318444",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000318444.jpg",
+        "image": "finetuning_COCO_images/000000318444.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7865,7 +7865,7 @@
     },
     {
         "id": "000000175020",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000175020.jpg",
+        "image": "finetuning_COCO_images/000000175020.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7895,7 +7895,7 @@
     },
     {
         "id": "000000530030",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000530030.jpg",
+        "image": "finetuning_COCO_images/000000530030.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7909,7 +7909,7 @@
     },
     {
         "id": "000000511410",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000511410.jpg",
+        "image": "finetuning_COCO_images/000000511410.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7923,7 +7923,7 @@
     },
     {
         "id": "000000072466",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000072466.jpg",
+        "image": "finetuning_COCO_images/000000072466.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7937,7 +7937,7 @@
     },
     {
         "id": "000000010478",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000010478.jpg",
+        "image": "finetuning_COCO_images/000000010478.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7951,7 +7951,7 @@
     },
     {
         "id": "000000045186",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000045186.jpg",
+        "image": "finetuning_COCO_images/000000045186.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7981,7 +7981,7 @@
     },
     {
         "id": "000000020563",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000020563.jpg",
+        "image": "finetuning_COCO_images/000000020563.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -7995,7 +7995,7 @@
     },
     {
         "id": "000000009778",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000009778.jpg",
+        "image": "finetuning_COCO_images/000000009778.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8009,7 +8009,7 @@
     },
     {
         "id": "000000043455",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000043455.jpg",
+        "image": "finetuning_COCO_images/000000043455.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8039,7 +8039,7 @@
     },
     {
         "id": "000000332003",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000332003.jpg",
+        "image": "finetuning_COCO_images/000000332003.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8053,7 +8053,7 @@
     },
     {
         "id": "000000579571",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000579571.jpg",
+        "image": "finetuning_COCO_images/000000579571.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8083,7 +8083,7 @@
     },
     {
         "id": "000000012307",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000012307.jpg",
+        "image": "finetuning_COCO_images/000000012307.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8113,7 +8113,7 @@
     },
     {
         "id": "000000508725",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000508725.jpg",
+        "image": "finetuning_COCO_images/000000508725.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8127,7 +8127,7 @@
     },
     {
         "id": "000000239515",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000239515.jpg",
+        "image": "finetuning_COCO_images/000000239515.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8141,7 +8141,7 @@
     },
     {
         "id": "000000304445",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000304445.jpg",
+        "image": "finetuning_COCO_images/000000304445.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8171,7 +8171,7 @@
     },
     {
         "id": "000000038965",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000038965.jpg",
+        "image": "finetuning_COCO_images/000000038965.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8185,7 +8185,7 @@
     },
     {
         "id": "000000052686",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000052686.jpg",
+        "image": "finetuning_COCO_images/000000052686.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8215,7 +8215,7 @@
     },
     {
         "id": "000000056875",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000056875.jpg",
+        "image": "finetuning_COCO_images/000000056875.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8229,7 +8229,7 @@
     },
     {
         "id": "000000530081",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000530081.jpg",
+        "image": "finetuning_COCO_images/000000530081.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8259,7 +8259,7 @@
     },
     {
         "id": "000000114414",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000114414.jpg",
+        "image": "finetuning_COCO_images/000000114414.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8289,7 +8289,7 @@
     },
     {
         "id": "000000048388",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000048388.jpg",
+        "image": "finetuning_COCO_images/000000048388.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8319,7 +8319,7 @@
     },
     {
         "id": "000000006295",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000006295.jpg",
+        "image": "finetuning_COCO_images/000000006295.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8333,7 +8333,7 @@
     },
     {
         "id": "000000047935",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000047935.jpg",
+        "image": "finetuning_COCO_images/000000047935.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8347,7 +8347,7 @@
     },
     {
         "id": "000000187384",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000187384.jpg",
+        "image": "finetuning_COCO_images/000000187384.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8361,7 +8361,7 @@
     },
     {
         "id": "000000548773",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000548773.jpg",
+        "image": "finetuning_COCO_images/000000548773.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8391,7 +8391,7 @@
     },
     {
         "id": "000000013703",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000013703.jpg",
+        "image": "finetuning_COCO_images/000000013703.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8405,7 +8405,7 @@
     },
     {
         "id": "000000550421",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000550421.jpg",
+        "image": "finetuning_COCO_images/000000550421.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8435,7 +8435,7 @@
     },
     {
         "id": "000000067988",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000067988.jpg",
+        "image": "finetuning_COCO_images/000000067988.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8449,7 +8449,7 @@
     },
     {
         "id": "000000502248",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000502248.jpg",
+        "image": "finetuning_COCO_images/000000502248.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8479,7 +8479,7 @@
     },
     {
         "id": "000000540873",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000540873.jpg",
+        "image": "finetuning_COCO_images/000000540873.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8509,7 +8509,7 @@
     },
     {
         "id": "000000408253",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000408253.jpg",
+        "image": "finetuning_COCO_images/000000408253.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8523,7 +8523,7 @@
     },
     {
         "id": "000000501493",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000501493.jpg",
+        "image": "finetuning_COCO_images/000000501493.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8553,7 +8553,7 @@
     },
     {
         "id": "000000387352",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000387352.jpg",
+        "image": "finetuning_COCO_images/000000387352.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8567,7 +8567,7 @@
     },
     {
         "id": "000000556744",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000556744.jpg",
+        "image": "finetuning_COCO_images/000000556744.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8597,7 +8597,7 @@
     },
     {
         "id": "000000510527",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000510527.jpg",
+        "image": "finetuning_COCO_images/000000510527.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8611,7 +8611,7 @@
     },
     {
         "id": "000000164439",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000164439.jpg",
+        "image": "finetuning_COCO_images/000000164439.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8641,7 +8641,7 @@
     },
     {
         "id": "000000322427",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000322427.jpg",
+        "image": "finetuning_COCO_images/000000322427.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8655,7 +8655,7 @@
     },
     {
         "id": "000000157160",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000157160.jpg",
+        "image": "finetuning_COCO_images/000000157160.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8669,7 +8669,7 @@
     },
     {
         "id": "000000565869",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000565869.jpg",
+        "image": "finetuning_COCO_images/000000565869.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8683,7 +8683,7 @@
     },
     {
         "id": "000000233292",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000233292.jpg",
+        "image": "finetuning_COCO_images/000000233292.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8713,7 +8713,7 @@
     },
     {
         "id": "000000074825",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000074825.jpg",
+        "image": "finetuning_COCO_images/000000074825.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8743,7 +8743,7 @@
     },
     {
         "id": "000000253686",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000253686.jpg",
+        "image": "finetuning_COCO_images/000000253686.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8757,7 +8757,7 @@
     },
     {
         "id": "000000070804",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000070804.jpg",
+        "image": "finetuning_COCO_images/000000070804.jpg",
         "conversations": [
             {
                 "from": "human",
@@ -8771,7 +8771,7 @@
     },
     {
         "id": "000000065841",
-        "image": "/nfs/data3/zhen/haowei/train2017/000000065841.jpg",
+        "image": "finetuning_COCO_images/000000065841.jpg",
         "conversations": [
             {
                 "from": "human",
