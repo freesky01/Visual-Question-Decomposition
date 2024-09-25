@@ -6,6 +6,10 @@ COCO_IMAGE_VAL_SET_PATH = 'Visual-Question-Decomposition/data/images/COCO_images
 COCO_IMAGE_TEST_SET_PATH = 'Visual-Question-Decomposition/data/images/COCO_images/test2017'
 GQA_IMAGE_PATH = 'Visual-Question-Decomposition/data/images/GQA_images/'
 
+AOKVQA_PATH = 'Visual-Question-Decomposition/data/inference/VQA/aokvqa_test_set.json'
+GQA_PATH = 'Visual-Question-Decomposition/data/inference/VQA/gqa_test_set.json'
+VQAINTROSPECT_PATH = 'Visual-Question-Decomposition/data/inference/VQA/VQAIntrospect_val_set_3000.json'
+WHETHER2DECO_PATH = 'Visual-Question-Decomposition/data/inference/Whether2Deco/Whether2Deco.json'
 
 def get_data_aokvqa(data_path):
     with open(data_path, 'r') as f:
@@ -95,14 +99,14 @@ def get_data_whether2deco(data_path):
     return output_dict
 
 
-def get_data(dataset_name, data_path):
-    if dataset_name == 'aokvqa':
-        return get_data_aokvqa(data_path)
-    elif dataset_name == 'gqa':
-        return get_data_gqa(data_path)
-    elif dataset_name == 'vqaintrospect':
-        return get_data_vqaintrospect(data_path)
-    elif dataset_name == 'whether2deco':
-        return get_data_whether2deco(data_path)
+def get_data(dataset):
+    if dataset == 'aokvqa':
+        return get_data_aokvqa(AOKVQA_PATH)
+    elif dataset == 'gqa':
+        return get_data_gqa(GQA_PATH)
+    elif dataset == 'vqaintrospect':
+        return get_data_vqaintrospect(VQAINTROSPECT_PATH)
+    elif dataset == 'whether2deco':
+        return get_data_whether2deco(WHETHER2DECO_PATH)
     else:
-        raise ValueError(f'Unknown dataset_name: {dataset_name}')
+        raise ValueError(f'Unknown dataset_name: {dataset}')

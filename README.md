@@ -93,7 +93,7 @@ python ../evaluation/Whether2Deco/Whether2Deco_acc.py \
 ```
 
 ## Contact
-For any issue or question, kindly contact us per E-Mail: Haowei Zhang (haowei.zhang@tum.de).
+For any issue or question, kindly contact us by E-Mail: Haowei Zhang (haowei.zhang@tum.de).
 
 ## Acknowledgement
 The code is partly based on the following repos, thank so much to all the contributors!
