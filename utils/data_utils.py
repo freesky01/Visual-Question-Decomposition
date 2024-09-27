@@ -15,7 +15,7 @@ def get_data_aokvqa(data_path):
     with open(data_path, 'r') as f:
         data = json.load(f)
 
-    output_dict = {}
+    data_dict = {}
     for sample_info in data:
         image_id = sample_info['image_id']
         zero_str = '0' * (12 - len(str(image_id)))
@@ -30,18 +30,18 @@ def get_data_aokvqa(data_path):
         choices_str = ', '.join(choices)
         question = f'{orig_question} Choose one option from {choices_str}'
 
-        output_dict[question_id] = {}
-        output_dict[question_id]['question'] = question
-        output_dict[question_id]['image_path'] = image_path
+        data_dict[question_id] = {}
+        data_dict[question_id]['question'] = question
+        data_dict[question_id]['image_path'] = image_path
 
-    return output_dict
+    return data_dict
 
 
 def get_data_gqa(data_path):
     with open(data_path, 'r') as f:
         data = json.load(f)
 
-    output_dict = {}
+    data_dict = {}
     for sample_info in data['questions']:
         question_id = sample_info['questionId']
         question = sample_info['question']
@@ -49,19 +49,19 @@ def get_data_gqa(data_path):
         image_path = os.path.join(GQA_IMAGE_PATH, f'{image_id}.jpg')
         ref_answer = sample_info['answer']
 
-        output_dict[question_id] = {}
-        output_dict[question_id]['question'] = question
-        output_dict[question_id]['image_path'] = image_path
-        output_dict[question_id]['ref_answer'] = ref_answer
+        data_dict[question_id] = {}
+        data_dict[question_id]['question'] = question
+        data_dict[question_id]['image_path'] = image_path
+        data_dict[question_id]['ref_answer'] = ref_answer
 
-    return output_dict
+    return data_dict
 
 
 def get_data_vqaintrospect(data_path):
     with open(data_path, 'r') as f:
         data = json.load(f)
                 
-    output_dict = {}
+    data_dict = {}
     for question_id, sample_info in data.items():
         question = sample_info['reasoning_question']
         image_id = sample_info['image_id']
@@ -71,19 +71,19 @@ def get_data_vqaintrospect(data_path):
             image_path = os.path.join(COCO_IMAGE_VAL_SET_PATH, f'{zero_str}{image_id}.jpg')
         ref_answer = sample_info['reasoning_answer_most_common']
 
-        output_dict[question_id] = {}
-        output_dict[question_id]['question'] = question
-        output_dict[question_id]['image_path'] = image_path
-        output_dict[question_id]['ref_answer'] = ref_answer
+        data_dict[question_id] = {}
+        data_dict[question_id]['question'] = question
+        data_dict[question_id]['image_path'] = image_path
+        data_dict[question_id]['ref_answer'] = ref_answer
 
-    return output_dict
+    return data_dict
 
 
 def get_data_whether2deco(data_path):
     with open(data_path, 'r') as f:
         data = json.load(f)
                 
-    output_dict = {}
+    data_dict = {}
     for sample_info in data():
         question_id = sample_info['id']
         question = sample_info['question']
@@ -91,12 +91,12 @@ def get_data_whether2deco(data_path):
         image_path = os.path.join(COCO_IMAGE_TRAINING_SET_PATH, image_file)
         ref_answer = sample_info['ref_answer']
 
-        output_dict[question_id] = {}
-        output_dict[question_id]['question'] = question
-        output_dict[question_id]['image_path'] = image_path
-        output_dict[question_id]['ref_answer'] = ref_answer
+        data_dict[question_id] = {}
+        data_dict[question_id]['question'] = question
+        data_dict[question_id]['image_path'] = image_path
+        data_dict[question_id]['ref_answer'] = ref_answer
 
-    return output_dict
+    return data_dict
 
 
 def get_data(dataset):
