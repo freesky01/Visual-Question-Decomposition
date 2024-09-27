@@ -76,16 +76,29 @@ You can also directly download our finetuned checkpoints of these four MLLMs in 
 ### 1. VQD Task
 
 ### 2. VQA Task
+```
+python ../inference_master.py \
+    --model_path example_model.pt \
+    --dataset aokvqa \
+    --pred_path example_output.json \
+    --seed 42
+```
 
 ### 3. Whether2Deco Task
-
+```
+python ../inference_master.py \
+    --model_path example_model.pt \
+    --dataset whether2deco \
+    --pred_path example_output.json \
+    --seed 42
+```
 
 
 ## Evaluation
 ### 1. Quality of Sub-questions: SubQuestRater Evaluation Framework
 
 ### 2. VQA Accuracy
-
+PS: We use the test set of A-OKVQA in the experiments, whose samples have no reference answers. You can upload the formatted prediction file to [AOKVQA Leaderboard](https://leaderboard.allenai.org/a-okvqa/submissions/public) to evaluate the VQA accuracy on A-OKVQA.
 ### 3. Whether2Deco Accuracy
 ```
 python ../evaluation/Whether2Deco/Whether2Deco_acc.py \
