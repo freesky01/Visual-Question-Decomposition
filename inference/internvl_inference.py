@@ -10,7 +10,6 @@ from PIL import Image
 from torchvision.transforms.functional import InterpolationMode
 
 from ..utils.prompt import PROMPT_DICT
-from ..utils.setup_seed import setup_seed
 
 IMAGENET_MEAN = (0.485, 0.456, 0.406)
 IMAGENET_STD = (0.229, 0.224, 0.225)
@@ -105,10 +104,6 @@ def run_internvl(model_path, data, dataset_name, pred_path, seed: Optional[int] 
         max_new_tokens=512,
         temperature=1.0,
     )
-
-    if seed is not None:
-        setup_seed(seed)
-        print(f"Seed: {seed}")
 
     output_dict = {}
     

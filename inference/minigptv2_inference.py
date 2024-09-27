@@ -21,7 +21,6 @@ from minigpt4.runners import *
 from minigpt4.tasks import *
 
 from ..utils.prompt import PROMPT_DICT
-from ..utils.setup_seed import setup_seed
 
 
 def parse_args():
@@ -113,10 +112,6 @@ def reverse_escape(text):
 
 
 def run_minigptv2(model_path, data, dataset_name, pred_path, seed: Optional[int] = None):
-    if seed is not None:
-        setup_seed(seed)
-        print(f"Seed: {seed}")
-    
     args = parse_args()
     cfg = Config(args)
     device = 'cuda' if torch.cuda.is_available() else 'cpu'

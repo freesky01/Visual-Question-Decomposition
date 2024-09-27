@@ -16,7 +16,6 @@ from llava.utils import disable_torch_init
 from llava.mm_utils import process_images, tokenizer_image_token, get_model_name_from_path, KeywordsStoppingCriteria
 
 from ..utils.prompt import PROMPT_DICT
-from ..utils.setup_seed import setup_seed
 
 
 def load_image(image_file):
@@ -28,12 +27,7 @@ def load_image(image_file):
     return image
 
 
-def run_llava(model_path, data, dataset_name, pred_path, seed: Optional[int] = None):
-    if seed is not None:
-        setup_seed(seed)
-        print(f"Seed: {seed}")
-        
-    
+def run_llava(model_path, data, dataset_name, pred_path, seed: Optional[int] = None):    
     output_dict = {}
     # Model
     disable_torch_init()

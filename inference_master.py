@@ -1,6 +1,19 @@
 import argparse
 from data_utils import get_data
+import torch
+import numpy as np
+import random
 from inference import run_minigptv2, run_llava, run_qwen, run_internvl
+
+
+def setup_seed(seed):
+	torch.manual_seed(seed)
+	torch.cuda.manual_seed_all(seed)
+	np.random.seed(seed)
+	random.seed(seed)
+	torch.backends.cudnn.benchmark = False
+	torch.backends.cudnn.deterministic = True
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -11,6 +24,9 @@ if __name__ == "__main__":
     parser.add_argument("--seed", type=int, default=None, help="seed")
     args = parser.parse_args()
     
+    if args.seed is not None:
+        setup_seed(args.seed)
+        print(f"Seed: {args.seed}")
     
     data = get_data(args.dataset)
     print(f'Dataset: {args.dataset}')

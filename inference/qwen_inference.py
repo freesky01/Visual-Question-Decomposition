@@ -8,7 +8,6 @@ from transformers.generation import GenerationConfig
 from typing import Optional
 
 from ..utils.prompt import PROMPT_DICT
-from ..utils.setup_seed import setup_seed
 
 def run_qwen(model_path, data, dataset_name, pred_path, seed: Optional[int] = None):
     # Note: The default behavior now has injection attack prevention off.
@@ -19,11 +18,7 @@ def run_qwen(model_path, data, dataset_name, pred_path, seed: Optional[int] = No
 
     # Specify hyperparameters for generation
     model.generation_config = GenerationConfig.from_pretrained("Qwen/Qwen-VL-Chat", trust_remote_code=True, temperature=1.0, num_beams=1)
-    
-    if seed is not None:
-        setup_seed(seed)
-        print(f"Seed: {seed}")
-    
+
     output_dict = {}
     
     #if 'if_decompose' not in args.dataset:

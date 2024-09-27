@@ -98,7 +98,7 @@ python ../inference_master.py \
 ### 1. Quality of Sub-questions: SubQuestRater Evaluation Framework
 
 ### 2. VQA Accuracy
-PS: We use the test set of A-OKVQA in the experiments, whose samples have no reference answers. You can upload the formatted prediction file to [AOKVQA Leaderboard](https://leaderboard.allenai.org/a-okvqa/submissions/public) to evaluate the VQA accuracy on A-OKVQA.
+PS: We use the test set of A-OKVQA in the experiments, whose samples have no reference answers. You can upload the formatted prediction file to [A-OKVQA Leaderboard](https://leaderboard.allenai.org/a-okvqa/submissions/public) to evaluate the VQA accuracy on A-OKVQA.
 ### 3. Whether2Deco Accuracy
 ```
 python ../evaluation/Whether2Deco/Whether2Deco_acc.py \
