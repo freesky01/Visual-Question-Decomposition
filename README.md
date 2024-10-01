@@ -121,5 +121,13 @@ The code is partly based on the following repos, thank so much to all the contri
 If you find this work useful, please consider giving this repository a star and citing our paper:
 
 ```
-example paper
+@misc{zhang2024visualquestiondecompositionmultimodal,
+      title={Visual Question Decomposition on Multimodal Large Language Models}, 
+      author={Haowei Zhang and Jianzhe Liu and Zhen Han and Shuo Chen and Bailan He and Volker Tresp and Zhiqiang Xu and Jindong Gu},
+      year={2024},
+      eprint={2409.19339},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.19339}, 
+}
 ```
