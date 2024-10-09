@@ -76,15 +76,17 @@ You can also directly download our finetuned checkpoints of these four MLLMs in 
 ### 1. VQD Task
 
 ### 2. VQA Task
+If you'd like to perform a VQA task, please run the following script:
 ```
 python ../inference_master.py \
     --model_path example_model.pt \
-    --dataset aokvqa \
+    --dataset aokvqa \  # choose from ["aokvqa", "gqa", "vqaintrospect"]
     --pred_path example_output.json \
     --seed 42
 ```
 
 ### 3. Whether2Deco Task
+If you'd like to perform a Whether2Deco task, please run the following script:
 ```
 python ../inference_master.py \
     --model_path example_model.pt \
@@ -100,6 +102,7 @@ python ../inference_master.py \
 ### 2. VQA Accuracy
 PS: We use the test set of A-OKVQA in the experiments, whose samples have no reference answers. You can upload the formatted prediction file to [A-OKVQA Leaderboard](https://leaderboard.allenai.org/a-okvqa/submissions/public) to evaluate the VQA accuracy on A-OKVQA.
 ### 3. Whether2Deco Accuracy
+If you'd like to know the Whether2Deco accuracy, please provide the path of inference prediction file and then run the following script:
 ```
 python ../evaluation/Whether2Deco/Whether2Deco_acc.py \
     --pred_path ../output/Whether2Deco/MiniGPT-v2/minigptv2_whether2deco_output.json
