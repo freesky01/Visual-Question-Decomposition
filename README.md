@@ -98,6 +98,12 @@ python ../inference_master.py \
 
 ## Evaluation
 ### 1. Quality of Sub-questions: SubQuestRater Evaluation Framework
+If you'd like to know the VQD ability, please provide the path of genearted sub-questions, and the path of the printed pdf file:
+```
+python ../evaluation/vqd_eval.py \
+    --pred_path ../output/VQD/MiniGPT-v2/minigptv2_vqd_output.json \
+    --eval_output_path example_eval_output.pdf
+```
 
 ### 2. VQA Accuracy
 If you'd like to know the VQA accuracy on GQA or VQA-Introspect, please provide the path of inference prediction file and then run the following script:
@@ -110,7 +116,7 @@ PS: We use the test set of A-OKVQA in the experiments, whose samples have no ref
 python ../evaluation/aokvqa_submission_form.py \
     --pred_path ../output/VQA/MiniGPT-v2/vqaintrospect/minigptv2_vqa_vqaintrospect_output.json \
     --api_key xxx \
-    --submission_form_path xxx \
+    --submission_form_path example_submission_form.json \
 ```
 Then you can upload the formatted prediction file to [A-OKVQA Leaderboard](https://leaderboard.allenai.org/a-okvqa/submissions/public) to evaluate the VQA accuracy on A-OKVQA.
 
