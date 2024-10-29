@@ -100,7 +100,20 @@ python ../inference_master.py \
 ### 1. Quality of Sub-questions: SubQuestRater Evaluation Framework
 
 ### 2. VQA Accuracy
-PS: We use the test set of A-OKVQA in the experiments, whose samples have no reference answers. You can upload the formatted prediction file to [A-OKVQA Leaderboard](https://leaderboard.allenai.org/a-okvqa/submissions/public) to evaluate the VQA accuracy on A-OKVQA.
+If you'd like to know the VQA accuracy on GQA or VQA-Introspect, please provide the path of inference prediction file and then run the following script:
+```
+python ../evaluation/vqa_acc.py \
+    --pred_path ../output/VQA/MiniGPT-v2/vqaintrospect/minigptv2_vqa_vqaintrospect_output.json
+```
+PS: We use the test set of A-OKVQA in the experiments, whose samples have no reference answers. You can transfer the prediction file into the submission form:
+```
+python ../evaluation/aokvqa_submission_form.py \
+    --pred_path ../output/VQA/MiniGPT-v2/vqaintrospect/minigptv2_vqa_vqaintrospect_output.json \
+    --api_key xxx \
+    --submission_form_path xxx \
+```
+Then you can upload the formatted prediction file to [A-OKVQA Leaderboard](https://leaderboard.allenai.org/a-okvqa/submissions/public) to evaluate the VQA accuracy on A-OKVQA.
+
 ### 3. Whether2Deco Accuracy
 If you'd like to know the Whether2Deco accuracy, please provide the path of inference prediction file and then run the following script:
 ```
