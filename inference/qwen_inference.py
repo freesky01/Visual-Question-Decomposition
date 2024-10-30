@@ -27,52 +27,66 @@ def run_qwen(model_path, data, dataset_name, pred_path, seed: Optional[int] = No
         question = sample_info['question']
         outputs_list = []
     
-        # zero stage - selective stage
-        zero_inp = PROMPT_DICT['whether_decompose'].format(question=question)
-        query = tokenizer.from_list_format([
-        {'image': image_path}, # Either a local path or an url
-        {'text': zero_inp},
-        ])
-        zero_phase_response, history = model.chat(tokenizer, query=query, history=None)
-        
-        output_dict[question_id] = {}
-        output_dict[question_id]['question'] = question
-        output_dict[question_id]['image_path'] = image_path
-        if 'ref_answer' in sample_info:
-            output_dict[question_id]['ref_answer'] = sample_info['ref_answer']
-        output_dict[question_id]['model_answer_zero_phase'] = zero_phase_response
-
-        if dataset_name == 'whether2deco':
-            continue
-        else:
-            # 1st to 3rd dialogue turns - direct answering or three-phase VQD
-            DIRECT_FLAG = True
-            if 'yes' in zero_phase_response.lower():
-                if dataset_name == 'aokvqa':
-                    inp_list = [PROMPT_DICT['direct_aokvqa'].format(question=question)]
-                else:
-                    inp_list = [PROMPT_DICT['direct_general'].format(question=question)]
-            else:
-                DIRECT_FLAG = False
-                if dataset_name == 'aokvqa':
-                    user_message_third = PROMPT_DICT['decompose_third_aokvqa'].format(question=question)
-                else:
-                    user_message_third = PROMPT_DICT['decompose_third_general'].format(question=question)
-                inp_list = [
-                        PROMPT_DICT['decompose_first'].format(question=question),
-                        PROMPT_DICT['decompose_second'],
-                        user_message_third
-                    ]
+        if dataset_name != 'subquestrater':
+            # zero stage - selective stage
+            zero_inp = PROMPT_DICT['whether_decompose'].format(question=question)
+            query = tokenizer.from_list_format([
+            {'image': image_path}, # Either a local path or an url
+            {'text': zero_inp},
+            ])
+            zero_phase_response, history = model.chat(tokenizer, query=query, history=None)
             
-            for inp in inp_list:
-                response, history = model.chat(tokenizer, query=inp, history=history)
-                outputs_list.append(response)
-    
-            if DIRECT_FLAG:
-                output_dict[question_id]['model_answer_direct'] = outputs_list[0]
+            output_dict[question_id] = {}
+            output_dict[question_id]['question'] = question
+            output_dict[question_id]['image_path'] = image_path
+            if 'ref_answer' in sample_info:
+                output_dict[question_id]['ref_answer'] = sample_info['ref_answer']
+            output_dict[question_id]['model_answer_zero_phase'] = zero_phase_response
+
+            if dataset_name == 'whether2deco':
+                continue
             else:
-                output_dict[question_id]['model_answer_first_phase'] = outputs_list[0]
-                output_dict[question_id]['model_answer_second_phase'] = outputs_list[1]
-                output_dict[question_id]['model_answer_third_phase'] = outputs_list[2]
+                # 1st to 3rd dialogue turns - direct answering or three-phase VQD
+                DIRECT_FLAG = True
+                if 'yes' in zero_phase_response.lower():
+                    if dataset_name == 'aokvqa':
+                        inp_list = [PROMPT_DICT['direct_aokvqa'].format(question=question)]
+                    else:
+                        inp_list = [PROMPT_DICT['direct_general'].format(question=question)]
+                else:
+                    DIRECT_FLAG = False
+                    if dataset_name == 'aokvqa':
+                        user_message_third = PROMPT_DICT['decompose_third_aokvqa'].format(question=question)
+                    else:
+                        user_message_third = PROMPT_DICT['decompose_third_general'].format(question=question)
+                    inp_list = [
+                            PROMPT_DICT['decompose_first'].format(question=question),
+                            PROMPT_DICT['decompose_second'],
+                            user_message_third
+                        ]
+                
+                for inp in inp_list:
+                    response, history = model.chat(tokenizer, query=inp, history=history)
+                    outputs_list.append(response)
+        
+                if DIRECT_FLAG:
+                    output_dict[question_id]['model_answer_direct'] = outputs_list[0]
+                else:
+                    output_dict[question_id]['model_answer_first_phase'] = outputs_list[0]
+                    output_dict[question_id]['model_answer_second_phase'] = outputs_list[1]
+                    output_dict[question_id]['model_answer_third_phase'] = outputs_list[2]
+        
+        else:
+            prompt = PROMPT_DICT['decompose_first'].format(question=question)
+            query = tokenizer.from_list_format([
+            {'image': image_path}, # Either a local path or an url
+            {'text': prompt},
+            ])
+            subquestions, history = model.chat(tokenizer, query=query, history=None)
+            
+            output_dict[question_id] = {}
+            output_dict[question_id]['question'] = question
+            output_dict[question_id]['image_path'] = image_path
+            output_dict[question_id]['model_subquestions'] = subquestions
    
     json.dump(output_dict, open(pred_path, 'w'), indent=4)

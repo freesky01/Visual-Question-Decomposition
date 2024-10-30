@@ -76,7 +76,11 @@ You can also directly download our finetuned checkpoints of these four MLLMs in 
 ### 1. VQD Task
 If you'd like to perform a VQD task to generate sub-questions, please run the following script:
 ```
-
+python ../inference_master.py \
+    --model_path example_model.pt \
+    --dataset subquestrater \
+    --pred_path example_output.json \
+    --seed 42
 ```
 
 ### 2. VQA Task

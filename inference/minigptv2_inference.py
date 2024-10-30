@@ -149,63 +149,76 @@ def run_minigptv2(model_path, data, dataset_name, pred_path, seed: Optional[int]
         question = sample_info['question']
         outputs_list = []
         
-        zero_inp = PROMPT_DICT['whether_decompose'].format(question=question)
-        chat.ask(zero_inp, chat_state)
+        if dataset_name != 'subquestrater':
+            zero_inp = PROMPT_DICT['whether_decompose'].format(question=question)
+            chat.ask(zero_inp, chat_state)
 
-        zero_phase_response = chat.answer(conv=chat_state,
-                                    img_list=img_list,
-                                    num_beams=num_beams,
-                                    temperature=temperature,
-                                    max_new_tokens=300
-                                    )[0]
-        output_dict[question_id] = {}
-        output_dict[question_id]['question'] = question
-        output_dict[question_id]['image_path'] = image_path
-        if 'ref_answer' in sample_info:
-            output_dict[question_id]['ref_answer'] = sample_info['ref_answer']
-        output_dict[question_id]['model_answer_zero_phase'] = zero_phase_response
+            zero_phase_response = chat.answer(conv=chat_state,
+                                        img_list=img_list,
+                                        num_beams=num_beams,
+                                        temperature=temperature,
+                                        max_new_tokens=300
+                                        )[0]
+            output_dict[question_id] = {}
+            output_dict[question_id]['question'] = question
+            output_dict[question_id]['image_path'] = image_path
+            if 'ref_answer' in sample_info:
+                output_dict[question_id]['ref_answer'] = sample_info['ref_answer']
+            output_dict[question_id]['model_answer_zero_phase'] = zero_phase_response
 
-        if dataset_name == 'whether2deco':
-            chat_state.messages = []
-            img_list = []
-            continue
+            if dataset_name == 'whether2deco':
+                chat_state.messages = []
+                img_list = []
+                continue
+            else:
+                # 1st to 3rd dialogue turns - direct answering or three-phase VQD
+                DIRECT_FLAG = True
+                if 'yes' in zero_phase_response.lower():
+                    if dataset_name == 'aokvqa':
+                        inp_list = [PROMPT_DICT['direct_aokvqa'].format(question=question)]
+                    else:
+                        inp_list = [PROMPT_DICT['direct_general'].format(question=question)]
+                else:
+                    DIRECT_FLAG = False
+                    if dataset_name == 'aokvqa':
+                        user_message_third = PROMPT_DICT['decompose_third_aokvqa'].format(question=question)
+                    else:
+                        user_message_third = PROMPT_DICT['decompose_third_general'].format(question=question)
+                    inp_list = [
+                            PROMPT_DICT['decompose_first'].format(question=question),
+                            PROMPT_DICT['decompose_second'],
+                            user_message_third
+                        ]
+                
+                for inp in inp_list:
+                    chat.ask(inp, chat_state)
+                    response = chat.answer(conv=chat_state,
+                                        img_list=img_list,
+                                        num_beams=num_beams,
+                                        temperature=temperature,
+                                        max_new_tokens=300
+                                        )[0]
+                    outputs_list.append(response)
+                
+                if DIRECT_FLAG:
+                    output_dict[question_id]['model_answer_direct'] = outputs_list[0]
+                else:
+                    output_dict[question_id]['model_answer_first_phase'] = outputs_list[0]
+                    output_dict[question_id]['model_answer_second_phase'] = outputs_list[1]
+                    output_dict[question_id]['model_answer_third_phase'] = outputs_list[2]
+                    
         else:
-            # 1st to 3rd dialogue turns - direct answering or three-phase VQD
-            DIRECT_FLAG = True
-            if 'yes' in zero_phase_response.lower():
-                if dataset_name == 'aokvqa':
-                    inp_list = [PROMPT_DICT['direct_aokvqa'].format(question=question)]
-                else:
-                    inp_list = [PROMPT_DICT['direct_general'].format(question=question)]
-            else:
-                DIRECT_FLAG = False
-                if dataset_name == 'aokvqa':
-                    user_message_third = PROMPT_DICT['decompose_third_aokvqa'].format(question=question)
-                else:
-                    user_message_third = PROMPT_DICT['decompose_third_general'].format(question=question)
-                inp_list = [
-                        PROMPT_DICT['decompose_first'].format(question=question),
-                        PROMPT_DICT['decompose_second'],
-                        user_message_third
-                    ]
+            prompt = PROMPT_DICT['decompose_first'].format(question=question)
+            chat.ask(prompt, chat_state)
+            subquestions = chat.answer(conv=chat_state,
+                                        img_list=img_list,
+                                        num_beams=num_beams,
+                                        temperature=temperature,
+                                        max_new_tokens=300
+                                        )[0]
+            output_dict[question_id]['model_subquestions'] = subquestions
             
-            for inp in inp_list:
-                chat.ask(inp, chat_state)
-                response = chat.answer(conv=chat_state,
-                                    img_list=img_list,
-                                    num_beams=num_beams,
-                                    temperature=temperature,
-                                    max_new_tokens=300
-                                    )[0]
-                outputs_list.append(response)
-            
-            if DIRECT_FLAG:
-                output_dict[question_id]['model_answer_direct'] = outputs_list[0]
-            else:
-                output_dict[question_id]['model_answer_first_phase'] = outputs_list[0]
-                output_dict[question_id]['model_answer_second_phase'] = outputs_list[1]
-                output_dict[question_id]['model_answer_third_phase'] = outputs_list[2]    
-            chat_state.messages = []
-            img_list = []
+        chat_state.messages = []
+        img_list = []    
         
     json.dump(output_dict, open(pred_path, 'w'), indent=4)

@@ -19,7 +19,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
     parser.add_argument("--model_path", required=True, type=str, default=None, help="model path")
-    parser.add_argument("--dataset", required=True, type=str, default=None, choices=['aokvqa', 'gqa', 'vqaintrospect', 'whether2deco'], help="can be chosen from ['aokvqa', 'gqa', 'vqaintrospect', 'whether2deco']")
+    parser.add_argument("--dataset", required=True, type=str, default=None, choices=['subquestrater', 'aokvqa', 'gqa', 'vqaintrospect', 'whether2deco'], help="can be chosen from ['subquestrater', 'aokvqa', 'gqa', 'vqaintrospect', 'whether2deco']")
     parser.add_argument("--pred_path", required=True, type=str, default=None, help="pred path")
     parser.add_argument("--seed", type=int, default=None, help="seed")
     args = parser.parse_args()
