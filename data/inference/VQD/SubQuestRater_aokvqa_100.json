@@ -1,0 +1,3102 @@
+[
+  {
+    "split": "train",
+    "image_id": 188311,
+    "question_id": "2Weup6NrxpDsXimuuNThgg",
+    "question": "What does one need to keep the items in the pink container working?",
+    "choices": [
+      "sharpener",
+      "electricity",
+      "gas",
+      "knife"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "sharpener",
+      "pencils",
+      "sharpener",
+      "sharpener",
+      "pencil sharpener",
+      "sharpener",
+      "sharpener",
+      "by sharpening",
+      "storage",
+      "pencil sharpener"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The items in the pink container are pencils which need to be kept sharp to work.",
+      "They will need to be cut down some when they get dull.",
+      "The pink container is full of pencils that require a sharpener to use them."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 559462,
+    "question_id": "2YLFuMTDUehPNDmgCzXGDP",
+    "question": "Why are they standing like that?",
+    "choices": [
+      "are resting",
+      "are falling",
+      "are posing",
+      "are fighting"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "posing",
+      "wedding photos",
+      "wedding photographs",
+      "picture taking",
+      "romantic",
+      "just married",
+      "wedding photos",
+      "are posing",
+      "picture posing",
+      "wedding pictures"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "Or they're just fooling around. the other options don't really fit unless the bride is c.",
+      "They're taking their wedding photos.",
+      "They are posing for pictures."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 479379,
+    "question_id": "2ZnuoiULmmvxWx5y5mSnyq",
+    "question": "What setting does the boarder pose in here?",
+    "choices": [
+      "urban",
+      "suburban",
+      "desert",
+      "farm"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "suburban",
+      "mountain",
+      "mountain",
+      "street",
+      "road",
+      "neighborhood",
+      "street",
+      "street",
+      "cool guy",
+      "rural"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The setting is suburban.",
+      "There are some buildings with green around.",
+      "The boarder is posing on a street in the suburbs."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 553780,
+    "question_id": "2h6a2jBxk4AenDEVNDorHm",
+    "question": "In which manner were the desserts here prepared?",
+    "choices": [
+      "baking",
+      "open fire",
+      "grilling",
+      "frying"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "carefull",
+      "baked",
+      "boxed",
+      "frying",
+      "fried",
+      "fried",
+      "baked",
+      "divided",
+      "store made",
+      "careful"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "Donuts are usually fried in oil.",
+      "The desserts in the box are doughnuts and are made by frying sweet dough.",
+      "The desserts are donuts by their shape and appearance. donuts are cooked by frying which you can see slightly on the sides."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 63671,
+    "question_id": "2s77G67Z5HtiK6jLaLXeNR",
+    "question": "Where can these foods be found?",
+    "choices": [
+      "fast food",
+      "bar",
+      "garden",
+      "office"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "ground",
+      "vegetable market",
+      "produce section",
+      "garden",
+      "ground",
+      "produce section",
+      "garden",
+      "garden",
+      "grocery store",
+      "garden"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The items are various vegetables that are grown in a garden.",
+      "All of these can be grown in a garden.",
+      "Vegetables are typically grown in a garden."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 406294,
+    "question_id": "2txsTcKVQndwtnZzzhjwrD",
+    "question": "What is this woman listening to?",
+    "choices": [
+      "person talking",
+      "music",
+      "video",
+      "radio"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "phone",
+      "person's voice",
+      "phone",
+      "cellphone",
+      "voicemail",
+      "cellphone",
+      "phone",
+      "person talking",
+      "cell phone",
+      "conversation"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "She is holding a phone up to her ear",
+      "She's holding a cell phone to her ear",
+      "This womani s listening to a person talking on the phone."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 245182,
+    "question_id": "45gp5VgLJNWEneWiXSDoH8",
+    "question": "What is required for this activity?",
+    "choices": [
+      "water",
+      "snow",
+      "sun",
+      "wind"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "stamina",
+      "skis",
+      "skis",
+      "skis",
+      "skis",
+      "skis",
+      "snow",
+      "snow",
+      "snow",
+      "skis"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "Snow is necessary for skiing in order to move down the hill.",
+      "You need snow to use the boards.",
+      "In order to move the athletes need snow."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 561069,
+    "question_id": "4BGFvDHMrLaKnHVQB5EGNU",
+    "question": "Which leg would be hurt if he fell?",
+    "choices": [
+      "his left",
+      "both",
+      "his right",
+      "neither"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "left",
+      "left leg",
+      "left leg",
+      "right",
+      "left leg",
+      "his left",
+      "left",
+      "left leg",
+      "left",
+      "left"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "A guy is on a skateboard and is in the air with the left side of his body closer to the ground than his right side is.",
+      "His left leg is facing downward so that would take the brunt of the fall.",
+      "The skater's left leg is closer to the ground above which he is temporarily suspended. we can assume this is the leg to be hurt should he fall."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 483159,
+    "question_id": "4ztjXqFyLcNSzkvyqRAaXL",
+    "question": "These items are usually eaten for what?",
+    "choices": [
+      "lunch",
+      "snack",
+      "fancy wedding",
+      "dinner"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "breakfast",
+      "dessert",
+      "sweet",
+      "sweet treat",
+      "breakfast",
+      "pleasure",
+      "snack",
+      "breakfast",
+      "breakfast",
+      "calories"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "These items are donuts. they are not eaten at meals or fancy weddings.",
+      "They are seems to be snacks.",
+      "The low nutritional value of this food means it's best only used as an occasional treat then a full meal."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 450592,
+    "question_id": "55qGVpRegbX4d7tgtMepw8",
+    "question": "What are the white horses used for?",
+    "choices": [
+      "pulling carriage",
+      "breeding",
+      "racing",
+      "tilling land"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "pulling carriage",
+      "pulling wagons",
+      "pulling wagon",
+      "pulling",
+      "pulling wagons",
+      "pulling",
+      "horse",
+      "pulling carriage",
+      "pulling",
+      "pull carriage"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The horses have harnesses that are meant to be attached to a structure with wheels in order for the horses to pull and move.",
+      "The white horses are harnessed to a vehicle behind them which they will pull.",
+      "The horses are shackled to the apparatus behind them."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 70104,
+    "question_id": "569vSJQqUzUMEUw72CseGQ",
+    "question": "What service does the red bus connect passengers to?",
+    "choices": [
+      "subway service",
+      "tram service",
+      "train service",
+      "plane service"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "airport",
+      "airport",
+      "airport",
+      "airport",
+      "airport",
+      "airport",
+      "plane service",
+      "airport",
+      "airport",
+      "airport"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The red bus has a sign on the front that says it goes to the airport.",
+      "A red bus with the destination of airport is driving on the street.",
+      "The red bus connects to a plane service because the sign on the bus reads london city airport"
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 26611,
+    "question_id": "5DL4FbHQjxhmqRP24kDyUF",
+    "question": "What was the black item used for?",
+    "choices": [
+      "chopping parsley",
+      "peeling broccoli",
+      "mixing dressing",
+      "peeling carrots"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "peeling skin",
+      "grating",
+      "peeling",
+      "peel carrots",
+      "peeling",
+      "shredding carrots",
+      "peeling",
+      "peeling carrots",
+      "peeling",
+      "pealing"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "They are sharp-edged and have some orange matter remaining on the blade.",
+      "A kitchen tool with a blade and a handle is next to a bowl of carrots.",
+      "This item is a vegetable peeler."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 445268,
+    "question_id": "5EW7vUxUs5VdjcMpFyrWsP",
+    "question": "Where has the white car on the yellow straps been?",
+    "choices": [
+      "harbor water",
+      "towtruck bed",
+      "boat",
+      "dock"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "in water",
+      "harbor water",
+      "water",
+      "lake",
+      "under water",
+      "underwater",
+      "water",
+      "water",
+      "submerged",
+      "underwater"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The yellow harness is lifting the formerly submerged car.",
+      "It was in the water and being pulled out.",
+      "A car is being lifted and is above a harbor and water."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 161231,
+    "question_id": "5EqCuLQtoVJvDHbUiVkX3b",
+    "question": "When leaving in which directions do these trains travel?",
+    "choices": [
+      "none",
+      "opposite",
+      "east west",
+      "same"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "right side",
+      "right",
+      "north",
+      "parallel",
+      "forward",
+      "same direction",
+      "same",
+      "same direction",
+      "forward",
+      "up"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The trains are going in the same direction.",
+      "The trains are both faced in the identical direction.",
+      "They are facing different directions."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 399012,
+    "question_id": "5Fm4wdqBoJJmjHhA6nLmbv",
+    "question": "What type of refreshment are the donuts being served with on the bench?",
+    "choices": [
+      "tea",
+      "coffee",
+      "juice",
+      "dairy"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "tea",
+      "tea",
+      "drink",
+      "tea",
+      "tea",
+      "cake",
+      "tea",
+      "juice",
+      "tea",
+      "tea"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The doughnuts are being served with tea.",
+      "These are traditional tea dishes to drink from",
+      "There are cups of tea sitting next to the donuts on the bench."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 321886,
+    "question_id": "5HkofQvXtKJsZiYNP3tpB7",
+    "question": "What are the cyclists doing?",
+    "choices": [
+      "practicing",
+      "racing",
+      "sightseeing",
+      "commuting"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "commuting",
+      "commuting",
+      "commuting",
+      "riding",
+      "riding",
+      "commuting",
+      "commuting",
+      "riding",
+      "traveling",
+      "riding"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The people are riding bicycles on a road in order to get to their destination.",
+      "They appear to be traveling during rush hour traffic.",
+      "The cyclists are riding on a city road to get to and from work."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 81768,
+    "question_id": "5MJNtPizGcnKYrbYFjFJqw",
+    "question": "What kind of sportswear can you buy on the right side of the street?",
+    "choices": [
+      "mouthpieces",
+      "shoes",
+      "belts",
+      "kneepads"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "shoes",
+      "shoes",
+      "shoes",
+      "bag",
+      "athletic wear",
+      "shoes",
+      "shoes",
+      "sports equipment",
+      "shoes",
+      "shoes"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "Foot locker is known to sell foot wear for your feet.",
+      "The foot locker store specializes in shoes and footwear for sports.",
+      "The store is foot locker, which sells footwear."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 578334,
+    "question_id": "5NweDwFFi5bxfWtRy8gsZR",
+    "question": "Where is this location?",
+    "choices": [
+      "starting line",
+      "park",
+      "riverside",
+      "finishing line"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "starting line",
+      "racetrack",
+      "kentucky derby",
+      "racetracks",
+      "racetrack",
+      "racetrack",
+      "horse track",
+      "racetrack",
+      "horse track",
+      "horserace"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The horses and riders have just gone through the gate and started the race.",
+      "The picture was taken at the horse track. the numbered gates right behind the horses is where the horses stay until they are released signaling the beginning of the race.",
+      "It appears they just left the starting position as the doors are opened."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 43279,
+    "question_id": "5REX9RsHEkGKKcuAn5rEZp",
+    "question": "Why is the horse there?",
+    "choices": [
+      "is lost",
+      "pull cart",
+      "for sale",
+      "giving rides"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "pull cart",
+      "parked",
+      "pulling buggy",
+      "transportation",
+      "pulling cart",
+      "standing",
+      "waiting",
+      "pulling cart",
+      "pulling cart",
+      "pulling cart"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The horse is wearing reigns which are attached to a cart, and this is a well known and old fashioned mode of transport which can still be used today.",
+      "The picture depicts the horse pulling a cart.",
+      "The horse is here to pull a cart."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 20517,
+    "question_id": "5S4LjyQAvRXJ3ijSVcmVK6",
+    "question": "What time is it in this location local time?",
+    "choices": [
+      "10 pm",
+      "710 am",
+      "710 pm",
+      "1 am"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "night",
+      "711 pm",
+      "710 pm",
+      "seven",
+      "eight fifteen",
+      "seven eleven",
+      "710",
+      "two forty",
+      "night time",
+      "seven"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "The clock is pointed to 7 10 and it is night time.",
+      "It is definitely pm given the darkness and the hour hand is pointing towards the 7.",
+      "The time is at night."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 151648,
+    "question_id": "5SnyCDayVEEqz886jPRszH",
+    "question": "What are the animals eating?",
+    "choices": [
+      "grass",
+      "dirt",
+      "hay",
+      "food"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "grass",
+      "hay",
+      "hay",
+      "hay",
+      "grass",
+      "grass",
+      "hay",
+      "hay",
+      "hay",
+      "hay"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "There is green grass hanging out of their mouths.",
+      "Though cows eat grass this picture shows them eating hay mixed with grass.",
+      "The cows are eating grass."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 264161,
+    "question_id": "5WwroWRDf2vmwPMGAWjZAG",
+    "question": "What is the pink object next to the red book used to do?",
+    "choices": [
+      "comb hair",
+      "brush teeth",
+      "write notes",
+      "clip nails"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "brush",
+      "brush hair",
+      "brush hair",
+      "brush hair",
+      "brush hair",
+      "hair brush",
+      "brush",
+      "comb",
+      "writing",
+      "comb hair"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "It has plastic bristles on it for detangling and smoothing hair.",
+      "That is used to comb hair.",
+      "The pink object is a brush."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 403981,
+    "question_id": "5ZCt8Js6JDiVVcpoXhktTw",
+    "question": "What is the purpose of the crate in this image?",
+    "choices": [
+      "protection",
+      "heater",
+      "chair",
+      "storage"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "chair",
+      "sitting",
+      "seat",
+      "sitting",
+      "container",
+      "sitting",
+      "sitting",
+      "sitting",
+      "chair",
+      "chair"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The crate is for people to sit on.",
+      "The purpose is a chair.",
+      "The man is sitting on the crate, also there are no chairs."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 432503,
+    "question_id": "5Zspx79qwZ6eQyePm8y7Ac",
+    "question": "In what setting is the skater skating?",
+    "choices": [
+      "desert",
+      "oceanic",
+      "farm",
+      "urban"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "beach",
+      "urban",
+      "skate park",
+      "skate park",
+      "skate park",
+      "skate park",
+      "skatepark",
+      "skate park",
+      "tropics",
+      "competition"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The setting is urban.",
+      "A skateboarder is doing a trick and there is pavement, houses, and other people around.",
+      "The skater is in a skate park."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 264567,
+    "question_id": "5aRKHQGZqBmeqtjGeKCD5R",
+    "question": "What type of career have these horsemen/women pursued?",
+    "choices": [
+      "cowboys",
+      "mounted police",
+      "town criers",
+      "performers"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "police",
+      "horsemen",
+      "leading",
+      "police",
+      "police",
+      "police",
+      "mounted police",
+      "race",
+      "poice offices",
+      "police"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The logo on the saddle indicates the career of the horsemen/women.",
+      "These people mounted on the horses are wearing law enforcement uniforms and have law enforcement blanket/saddles on the horses.",
+      "In some places cops ride around on horses instead of cars."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 70347,
+    "question_id": "5aTn9dxGJtnuEHfrzSFrLV",
+    "question": "Where is the horse's head most likely?",
+    "choices": [
+      "museum",
+      "zoo",
+      "airport",
+      "racetrack"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "left",
+      "on horse",
+      "horse",
+      "photo-shopped",
+      "airport",
+      "mans body",
+      "on his",
+      "photoshopped",
+      "in airport",
+      "halloween party"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "The man has a badge.",
+      "The head is in the airport.",
+      "The chairs, the style of ceiling, and the moving concourse are all staples of airport architecture."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 579859,
+    "question_id": "5bkJZLcSoMDm2sa593XRst",
+    "question": "The people riding on the red vehicle on the road can be classified as what type of passengers?",
+    "choices": [
+      "commuters",
+      "tourists",
+      "workers",
+      "students"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "tourists",
+      "tourists",
+      "working class",
+      "tourists",
+      "tourists",
+      "tourists",
+      "working class",
+      "tourists",
+      "working class",
+      "tourists"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The bus is a tour bus.",
+      "The bus is full of people that are on a tour.",
+      "They are in a double-decker bus in the open top area. visitors like to see the neighborhood they are traveling in."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 566798,
+    "question_id": "5bn8PcFE3ossA2TwLFBvkj",
+    "question": "Who does the man communicate with here?",
+    "choices": [
+      "waiter",
+      "child",
+      "seated woman",
+      "phone caller"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "colleague",
+      "phone",
+      "partner",
+      "phone",
+      "phone",
+      "other person",
+      "phone caller",
+      "woman",
+      "lady",
+      "phone"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "He is speaking with someone not present in this location.",
+      "The man has a phone.",
+      "The man is speaking on the phone; it assumed that he is talking to someone on the phone."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 483992,
+    "question_id": "5gG25WupEEmsugwh9MscmY",
+    "question": "What s the main property of the red material in the jar on the back table?",
+    "choices": [
+      "sour",
+      "spicy",
+      "oily",
+      "salty"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "spice",
+      "red chili",
+      "peppery heat",
+      "spice",
+      "pepper flakes",
+      "peppers",
+      "spicy",
+      "pepper",
+      "pepper",
+      "heat"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The jar has red pepper flakes in it.",
+      "The red material is peppers which are spicy.",
+      "The main property is spicy."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 236718,
+    "question_id": "5oGYejx653S5kRVLodbY8n",
+    "question": "The children seen here are helping their family do what?",
+    "choices": [
+      "sell",
+      "move",
+      "couch surf",
+      "play ball"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "move",
+      "move",
+      "move",
+      "moving",
+      "move furniture",
+      "move furniture",
+      "transport",
+      "move",
+      "move",
+      "move"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "There is furniture in the back of the truck and the kids are also in the back. they are with the family while they are moving the furniture.",
+      "The couch is in the back for them to move it.",
+      "They are moving and have the back of the truck packed with furniture."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 309404,
+    "question_id": "5rMXfpsLsQhCPEdrAGAWKD",
+    "question": "Why do people eat this thing?",
+    "choices": [
+      "animal abuse",
+      "thanksgiving",
+      "birthday celebration",
+      "meat lover"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "birthday celebration",
+      "celebrations",
+      "gluttony",
+      "party",
+      "birthday",
+      "for birthdays",
+      "birthday",
+      "dessert",
+      "dessert celebration",
+      "birthday"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The words beside the cake indicate its purpose.",
+      "People eat cake in commemoration of birthdays.",
+      "This is likely a cake for a person who loves dogs to celebrate getting a year older."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 297210,
+    "question_id": "5sZRu2SkkjtgRhpCXMsbVB",
+    "question": "What made the grooves seen here?",
+    "choices": [
+      "skis",
+      "gophers",
+      "snow groomer",
+      "children"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "rake",
+      "snow groomer",
+      "rake",
+      "ski",
+      "groomers",
+      "skiers",
+      "skis",
+      "snow groomer",
+      "snow machine",
+      "truck"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The lines are too perfect to be man made, so it must have been the groomer.",
+      "The person who drags a machine over the snow created the grooves.",
+      "The grooves are from the snow groomer."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 229481,
+    "question_id": "5utnZeAsA87AdbpmEFPDdK",
+    "question": "What the is the woman to do?",
+    "choices": [
+      "exercise",
+      "sleep",
+      "eat",
+      "travel"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "cooking",
+      "eat",
+      "cooking",
+      "cooking",
+      "cooking",
+      "cooking",
+      "cook",
+      "cooking",
+      "cooking onions",
+      "cook"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "She is cooking food because she is probably hungry or feeding someone else.",
+      "Technically she's cooking with the plan to do a.",
+      "The picture is showing her cooking food so she can eat it."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 232143,
+    "question_id": "5wEsn4M4Gbhg3c5Tj4AQqp",
+    "question": "What do you hang with the thing sitting on the folded blanket?",
+    "choices": [
+      "clothes",
+      "hats",
+      "flowers",
+      "picture"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "clothing",
+      "clothes",
+      "clothing",
+      "clothes",
+      "clothes",
+      "clothing",
+      "clothes",
+      "clothes",
+      "clothes",
+      "clothes"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "It's a hanger and that is its purpose. you might also use it decoratively with c.",
+      "The item on the folded blanket is a hanger.  these are most notably used to hang clothes.",
+      "You can hang it with the clothes."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 333665,
+    "question_id": "5wRK3bCkWmT4jFyBT5RYYJ",
+    "question": "Why are people looking at the ground?",
+    "choices": [
+      "dog",
+      "bright",
+      "tripping hazard",
+      "slippery"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "being careful",
+      "sun",
+      "trip avoidance",
+      "avoid conversation",
+      "just walking",
+      "bright",
+      "uneven pavement",
+      "avoid sunlight",
+      "sunny",
+      "it's sunny"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "The guy is turning away from the sun.",
+      "The people are looking at the ground because the sun too bright for their eyes.",
+      "The sun is shining in the people's eyes."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 348948,
+    "question_id": "5xeiBbsvU22sNzXBqGpZeQ",
+    "question": "How many people are probably sitting down to the meal?",
+    "choices": [
+      "four",
+      "one",
+      "two",
+      "three"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "one",
+      "single",
+      "one",
+      "one",
+      "two",
+      "one",
+      "single",
+      "one",
+      "one",
+      "one"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "There is just a plate for one.",
+      "The salad can feed a single person.",
+      "There is only one plate here."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 303556,
+    "question_id": "664HUsSSVeZUyDojPWbKjJ",
+    "question": "Who is throwing the frisbee?",
+    "choices": [
+      "boy",
+      "girl",
+      "man",
+      "woman"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "man",
+      "man",
+      "man",
+      "person",
+      "man",
+      "man",
+      "person",
+      "man",
+      "man",
+      "man"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The frisbee is coming to the woman.  the man is watching it land.",
+      "It is a male near the water who threw it",
+      "The man is tossing the frisbee to the woman."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 306160,
+    "question_id": "66WxJw8hV4KqkaS7uNb6q7",
+    "question": "How does the woman feel?",
+    "choices": [
+      "cool",
+      "wet",
+      "cold",
+      "hot"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "happy",
+      "happy",
+      "pensive",
+      "refreshed",
+      "happy",
+      "happy",
+      "peaceful",
+      "happy",
+      "lonely",
+      "cool"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "She is under the tree in the shade",
+      "She is in the shade and by the water so she is likely feeling cool.",
+      "She is by the water, which means there is probably a gentle breeze."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 174019,
+    "question_id": "6AD5baPWWUieiFnsXe8rwc",
+    "question": "Is it safe to cross here across division street at this exact time?",
+    "choices": [
+      "unknown",
+      "no",
+      "perhaps",
+      "yes"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "no",
+      "no",
+      "no",
+      "two hours",
+      "no",
+      "yes",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The hand on the sign means \"don't cross.\".",
+      "There is a visible sign indicating if it is safe for pedestrians to proceed and it is showing the symbol synonymous for communicating answer a.",
+      "The crosswalk indicates it is not safe to cross the street."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 293505,
+    "question_id": "6AsDjUJudYPBKvLAw2fKbk",
+    "question": "Who paved this street?",
+    "choices": [
+      "municipality",
+      "neighbors",
+      "cows",
+      "no one"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "not paved",
+      "nobody",
+      "no one",
+      "machines",
+      "no one",
+      "no one",
+      "workers",
+      "no one",
+      "residents",
+      "nobody"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "This is an unpaved dirt street.",
+      "It is a dirt road.",
+      "This is a dirt path and it's not paved."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 110821,
+    "question_id": "6B8PKazokGxoLky3ufx5kD",
+    "question": "What caused the tomatoes to shrivel up?",
+    "choices": [
+      "heat",
+      "spice",
+      "knife",
+      "acid"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "heat",
+      "baked",
+      "ingredients",
+      "broiling",
+      "heat",
+      "bake",
+      "cooking",
+      "cooking",
+      "dehydration",
+      "heat"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "When tomatoes are cooked they will shrivel up some.",
+      "The tomatoes have been toasted in the oven.",
+      "The tomatoes were baked."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 160938,
+    "question_id": "6HTyLjPTZxXfz3w64JHDPV",
+    "question": "In which type space is cake being cut?",
+    "choices": [
+      "arena",
+      "private home",
+      "stadium",
+      "rest home"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "square",
+      "dining room",
+      "table",
+      "private home",
+      "dining room",
+      "dining room",
+      "kitchen",
+      "kitchen",
+      "dining room",
+      "dining room"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The man is in a residence with a small table and kitchen in the background.",
+      "Looks like they are in someones living room or house.",
+      "This is in someones house."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 154083,
+    "question_id": "6MoH7WhJgiFKsGHbdrEs6M",
+    "question": "What is holding down the kites?",
+    "choices": [
+      "dumbbells",
+      "rocks",
+      "feet",
+      "bricks"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "string",
+      "man's foot",
+      "string",
+      "string",
+      "feet",
+      "string",
+      "string",
+      "string",
+      "strings",
+      "weight"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The person is using their feet to keep the kite down.",
+      "All kites needs something on the ground to keep it secured.  the only object which is close to the kite is the man's feet.",
+      "The man looks to be stepping on the string."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 509584,
+    "question_id": "6NkJbw2CYebyQgtghnjhCY",
+    "question": "What are the vehicles getting onto?",
+    "choices": [
+      "parking lot",
+      "dock",
+      "street",
+      "boat"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "ferry",
+      "ferry",
+      "carrier ship",
+      "boat",
+      "ferry",
+      "ferry",
+      "carrier ship",
+      "carrier ship",
+      "ferry",
+      "ferry"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The vehicles are lining up to get on a ship.",
+      "The entrance to a ferry looks like this.",
+      "The vehicles are boarding the boat."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 539418,
+    "question_id": "6SekzawkUeA7s4AB9Zjah6",
+    "question": "Why is he carrying his surfboard?",
+    "choices": [
+      "stealing it",
+      "exercise",
+      "done surfing",
+      "hiding it"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "going surfing",
+      "boat",
+      "scatting",
+      "going home",
+      "going home",
+      "leaving",
+      "safty",
+      "surf",
+      "going surfing",
+      "done surfing"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "By the time of day and the direction is facing suggests they are done for the day.",
+      "He is walking out of the water with it.",
+      "The man is done surfing."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 190360,
+    "question_id": "6SmiiGaEXadV2nshv9MCcM",
+    "question": "Why would the cat lay here?",
+    "choices": [
+      "warmth",
+      "playfulness",
+      "food",
+      "cooling"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "warm",
+      "resting",
+      "enjoy warmth",
+      "cozy",
+      "warm",
+      "nap",
+      "warmth",
+      "tired",
+      "warmth",
+      "to rest"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The car is giving off heat so the cat likes the warmth.",
+      "The cat is sitting on the hood of a car. the cat likes the heat that is given off by the engine.",
+      "The cat would lay here to absorb some of the heat given off by the engine."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 261118,
+    "question_id": "6WFx5LMuSEsjCTaU9diTU4",
+    "question": "What is the red rectangular box with windows on the right used for?",
+    "choices": [
+      "sitting",
+      "collecting trash",
+      "buying food",
+      "phones calls"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "telephone",
+      "telephone booth",
+      "telephone booth",
+      "phone calls",
+      "telephone",
+      "telephone calls",
+      "phone calls",
+      "phone calls",
+      "phone booth",
+      "phones calls"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "It is used to make phone calls",
+      "That is a telephone booth that the public can use to make a phone call.",
+      "The box is for phone calls."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 152328,
+    "question_id": "6f7GgCZb6FzSiLsr9vyXzb",
+    "question": "Which wrong furnishing has the woman put on?",
+    "choices": [
+      "pants",
+      "shoes",
+      "shirt",
+      "purse"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "no helmet",
+      "fanny pack",
+      "n/a",
+      "bad question",
+      "shoes",
+      "unknown",
+      "sunglasses",
+      "shoes",
+      "short",
+      "nothing"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "The woman is wearing block heels to cycle.",
+      "She lacks the right shoes.",
+      "While riding a bike, most people dress casually or athletically.   evening shoes are not part of this attire."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 385405,
+    "question_id": "6hNH7q6mfqXopBumcNHP95",
+    "question": "What type of store is this?",
+    "choices": [
+      "shoe",
+      "grocery",
+      "pet",
+      "beauty"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "pet",
+      "bird store",
+      "pet shop",
+      "pet",
+      "pet",
+      "pet",
+      "pet store",
+      "pet store",
+      "pet",
+      "pet"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "There are cages hanging or stacked along the store containing different birds for sale.",
+      "This is a pet store that appears to specialize in selling birds, as many cages with birds in them are quite visible here, but no dogs, cats or fish are seen.",
+      "It has many cages with animals inside them."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 434187,
+    "question_id": "6isctxbLAe9N5VDyDQBnxJ",
+    "question": "Why is the man holding a phone out in front of him?",
+    "choices": [
+      "sending email",
+      "scanning barcode",
+      "reading text",
+      "taking photo"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "take photo",
+      "photo",
+      "taking photo",
+      "picture",
+      "photography",
+      "taking picture",
+      "taking picture",
+      "taking photo",
+      "taking picture",
+      "taking picture"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "He is holding the phone up toward the people behind bars which means he is taking a photo. he would hold the phone closer to himself if he was reading it.",
+      "The man wants a photo.",
+      "People take photos with their phones."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 185487,
+    "question_id": "DJEdg3eM2KhVgXeTpMmS9v",
+    "question": "What element lifts this person skyward?",
+    "choices": [
+      "water",
+      "mineral",
+      "fire",
+      "wind"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "kite",
+      "parachute",
+      "wind",
+      "wind",
+      "kite",
+      "kite",
+      "parachute",
+      "wind",
+      "kinetic energy",
+      "kite"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The person is only able to sail through the air because of the wind.",
+      "None of the other options fit with this type of environment. the parachute/kite above them is also obviously linked to this element.",
+      "They are using a kite which catches this force and propels them"
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 102843,
+    "question_id": "FCTVcYU3n8NSoEauU6cYjz",
+    "question": "What purpose does the red tower serve?",
+    "choices": [
+      "toll taking",
+      "aquarium",
+      "warning ships",
+      "prison"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "visibility",
+      "visibility",
+      "lighthouse",
+      "warn vessels",
+      "lighthouse",
+      "lighthouse",
+      "lighthouse",
+      "warning ships",
+      "lighthouse",
+      "lighthouse"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "That is a lighthouse which helps ships see the shore.",
+      "The red tower is on a jetty that sticks out into the water. the red tower is a light house.",
+      "The purpose is to warn ships."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 174019,
+    "question_id": "GowTD9LpFi2QUUJjiGGf5G",
+    "question": "In which country is this picture taken?",
+    "choices": [
+      "china",
+      "luxembourg",
+      "spain",
+      "canada"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "canada",
+      "canada",
+      "usa",
+      "usa",
+      "canada",
+      "canada",
+      "canada",
+      "canada",
+      "united states",
+      "united states"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The street sign is in english.",
+      "One can see several of this country's maple leaf flag hanging.",
+      "The canadian flag can be seen hanging from several store fronts in the photo."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 276491,
+    "question_id": "SXWaAGjbX4inbSEyZrzfwp",
+    "question": "Where do the tubes from the raised bag go?",
+    "choices": [
+      "patient's arm",
+      "mans toe",
+      "nurses station",
+      "outside window"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "iv",
+      "patients arm",
+      "iv",
+      "iv bag",
+      "man's arm",
+      "intravenous lines",
+      "iv",
+      "iv",
+      "iv",
+      "patient's arm"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The tubes are for the arm.",
+      "The tubes are delivering fluid to the person's arm.",
+      "There are tubes in the raised bag going to the man's arm."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 407067,
+    "question_id": "ctwFhMtZDNhedLmFroBV3m",
+    "question": "Why is the boy on the skateboard raising his hands in the air?",
+    "choices": [
+      "to balance",
+      "to clap",
+      "to celebrate",
+      "getting help"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "to balance",
+      "balance himself",
+      "balance",
+      "balance",
+      "balance",
+      "for balance",
+      "balance",
+      "maintain balance",
+      "balance",
+      "balance"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "He's balancing.",
+      "The boy doesn't want to fall.",
+      "The boy's body is moving at a very fast pace, and if he doesn't throw his arms in the right direction often and consistently to maintain balance, he will be thrown to the ground."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 574562,
+    "question_id": "cubNWPDHkMhw4kUpenfmDy",
+    "question": "Why is the woman carrying luggage?",
+    "choices": [
+      "to travel",
+      "to buy",
+      "to sell",
+      "to trade"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "to travel",
+      "traveling",
+      "traveling",
+      "travelling",
+      "travelling",
+      "arriving home",
+      "travelling",
+      "travelling",
+      "trip",
+      "traveling"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "This wheeled single suitcase the woman is holding is suggestive of travel.",
+      "People use luggage to carry their belongings when they travel.",
+      "The primary reason why people carry luggage is because they are in some process of travelling."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 459185,
+    "question_id": "cujRueXPUC7DbbjfRhmNaK",
+    "question": "What type of event is this rider in?",
+    "choices": [
+      "polo",
+      "dance",
+      "show jumping",
+      "race"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "show jumping",
+      "riders",
+      "equestrian jumping",
+      "jumping",
+      "race",
+      "horse riding",
+      "horse",
+      "equestrian",
+      "jump",
+      "equestrian"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "The rider is jumping over the log.",
+      "The rider is jumping.",
+      "He is jumping his horse over the bar."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 41687,
+    "question_id": "d5KRg7TuMKxb6g9nhAds39",
+    "question": "Where do these people ski?",
+    "choices": [
+      "lake",
+      "sand",
+      "private home",
+      "large resort"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "slope",
+      "ski lodge",
+      "in snow",
+      "private home",
+      "in snow",
+      "ski slopes",
+      "hills",
+      "mountain",
+      "hill",
+      "on snow"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "The people have a home.",
+      "A two story structure with a fence around it and a residential looking yard.",
+      "Looks like they are skiing in their backyard of their home."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 507551,
+    "question_id": "dFPMbFhABz9tH4xyaKP25i",
+    "question": "Why is the bat resting on his shoulder?",
+    "choices": [
+      "hiding bat",
+      "hit ball",
+      "resting",
+      "stealing bat"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "hitting ball",
+      "waiting",
+      "technique",
+      "swinging",
+      "swinging stance",
+      "to ready",
+      "hit ball",
+      "swinging",
+      "taking aim",
+      "swinging"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "A baseball player normally taking a stance prior to hitting a baseball.  also, he will most often rest his bat on his shoulder before he hits ball.",
+      "The bat is to hit.",
+      "The boy is about to bat."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 118679,
+    "question_id": "dFuVUJpB53bQvyjKLBBBJb",
+    "question": "What might have happened to the tennis player for him to react like this?",
+    "choices": [
+      "gained point",
+      "gastro intestinal",
+      "lost point",
+      "fear"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "lost",
+      "poor play",
+      "poor performance",
+      "lost match",
+      "he lost",
+      "missed shot",
+      "bad serve",
+      "missed shot",
+      "miss ball",
+      "lost point"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "He has an angry look on his face. he is snarling.",
+      "It's hard to win when you don't get the numbers.",
+      "He looks like he realizes he made a mistake."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 356145,
+    "question_id": "dKaFKEUGP2zWakuqLyqwao",
+    "question": "Why are they stopping?",
+    "choices": [
+      "enjoy view",
+      "no gas",
+      "are hungry",
+      "are lost"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "sight see",
+      "resting",
+      "sightseeing",
+      "to chat",
+      "admire view",
+      "scenic views",
+      "pictures",
+      "ticket",
+      "sight seeing",
+      "enjoy view"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "They appear to be stopped to look at the waterfall, which is a beauty of nature to marvel at.",
+      "Two men are standing on the side of the road and are looking towards a waterfall.",
+      "They are all stopping to enjoy the view of the waterfall."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 354144,
+    "question_id": "dKnsWkJwqaC8kRn9Qu8ozC",
+    "question": "What energy is powering the white cable cars?",
+    "choices": [
+      "solar",
+      "electricity",
+      "wind",
+      "gas"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "electricity",
+      "electricity",
+      "electricity",
+      "electricity",
+      "hep",
+      "electric",
+      "electricity",
+      "electric",
+      "electric",
+      "electricity"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "Electricity is what goes through the lines on the cable.",
+      "The energy is electricity.",
+      "They are on a string which is moved by electrical energy to get them where they need to get."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 224670,
+    "question_id": "dLweZxL4HghHCsC6JzFrgN",
+    "question": "What creates the blurry reflection seen in this photo?",
+    "choices": [
+      "steam",
+      "heat",
+      "cat breath",
+      "glass"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "movement",
+      "glass",
+      "reflection",
+      "movement",
+      "moving camera",
+      "ceiling lights",
+      "laptop",
+      "glare",
+      "glare",
+      "glass"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "Glass is reflective which can reflect images.",
+      "The glass is blurry.",
+      "Sometimes reflections can be seen through those transparent objects when light hits it."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 185487,
+    "question_id": "dM7JFUvMn7PJmguomkCAXs",
+    "question": "Why is the person's outfit green in color?",
+    "choices": [
+      "dress code",
+      "visibility",
+      "camouflage",
+      "matching color"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "matching color",
+      "bright",
+      "be seen",
+      "for protection",
+      "visibility",
+      "match kite",
+      "match board",
+      "match snowboard",
+      "flying",
+      "be noticed"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "The person has a matching outfit and snowboard.",
+      "A person is on a green snowboard and is wearing a matching coat.",
+      "The outfit is green in color to match."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 547498,
+    "question_id": "dN4vMKwjowFVUL9yCMdBa4",
+    "question": "Why is the man laying under the elephant?",
+    "choices": [
+      "sleeping",
+      "showing off",
+      "napping",
+      "exercising"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "show",
+      "trick",
+      "trick",
+      "training",
+      "showing off",
+      "magic trick",
+      "entertainment",
+      "animal show",
+      "performance",
+      "performing trick"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "He is showing off for a trick with the elephant.",
+      "The man is dressed in a costume. the elephant is trained, and they are probably part of a circus or other entertainment.",
+      "The man is showing off."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 24107,
+    "question_id": "dWMXiYbKACfUxPigGSW3Uo",
+    "question": "Why is the man wearing the silver helmet?",
+    "choices": [
+      "for halloween",
+      "safety",
+      "for amusement",
+      "style"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "head protection",
+      "protection",
+      "protection",
+      "safety",
+      "protection",
+      "head protection",
+      "protection",
+      "protection",
+      "protective",
+      "protection"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "He is skiing. the helmet protects his head.",
+      "The man is engaged in a physically dangerous activity, downhill skiing. wearing safety equipment is a prudent measure when engaged in dangerous activity.",
+      "Helmets are for safety."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 395752,
+    "question_id": "dbYN4xvs5zcQyTbDMKUWgr",
+    "question": "Why is the man near the front of the trolley?",
+    "choices": [
+      "to fight",
+      "visibility",
+      "getting in",
+      "to talk"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "getting on",
+      "getting on",
+      "driving",
+      "getting on",
+      "driver",
+      "boarding",
+      "boarding",
+      "passenger",
+      "getting on",
+      "getting in"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "A man is barely seen at the front of the trolly and appears to be boarding.",
+      "He is entering the trolly",
+      "He looks to be boarding the trolley."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 461884,
+    "question_id": "dhBAgrmD9JbQuQNhSrtoN4",
+    "question": "Why is this man holding his arms out?",
+    "choices": [
+      "to gesture",
+      "for balance",
+      "he fell",
+      "it's hot"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "balance",
+      "for balance",
+      "maintain balance",
+      "balance",
+      "balance",
+      "balance",
+      "maintain balance",
+      "maintain balance",
+      "balance",
+      "balance"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "While doing this extreme sport you have to avoid falling off.",
+      "The man is holding out his arms to keep himself from falling.",
+      "He can use his arms to add a weight that will counteract any leaning to one side."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 196944,
+    "question_id": "dmG6NkkDGdvQoJD7qSrXpV",
+    "question": "Why is the zebra wearing a hat?",
+    "choices": [
+      "stay warm",
+      "for photograph",
+      "showing off",
+      "fashion"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "publicity stunt",
+      "for show",
+      "amusement",
+      "pictures",
+      "circus",
+      "for photograph",
+      "for picture",
+      "decoration",
+      "pictures",
+      "humor"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "They are having fun for the camera.",
+      "The zebra is for the photo.",
+      "These animals don't wear clothing normally."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 49643,
+    "question_id": "e6ahtS7wWr7APCNuwwMrSy",
+    "question": "Why are the men wearing yellow vests?",
+    "choices": [
+      "as punishment",
+      "for fun",
+      "visibility",
+      "fashion"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "city workers",
+      "urban workers",
+      "safety",
+      "safety reflection",
+      "visibility",
+      "safety",
+      "increased visibility",
+      "working",
+      "visibility",
+      "safety"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The bright colors will be easily spotted by motorists and lessen the chance of them getting hit.",
+      "People wear yellow to be more visible for safety and road workers follow safety precautions.",
+      "They are wearing a bright reflective color so people can see them better for their own safety."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 62276,
+    "question_id": "eA8FTam8vqF2FkVEPUPYk3",
+    "question": "Why is he running on the bridge?",
+    "choices": [
+      "stay dry",
+      "less windy",
+      "being followed",
+      "shorter run"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "exercise",
+      "exercise",
+      "crossover stream",
+      "exercise",
+      "exercise",
+      "exercise",
+      "exercise",
+      "exercise",
+      "crossover stream",
+      "stay dry"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "He appears to be purposely on a run for exercise, and running makes it faster.",
+      "To stay dry to prevent  him falling to river.",
+      "The man is running on the bridge to stay dry."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 356940,
+    "question_id": "eCUCu3pXwPPyVc3n5s5raT",
+    "question": "Why does the cow have flowers on her head?",
+    "choices": [
+      "hiding her",
+      "found them",
+      "growing there",
+      "won contest"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "celebration",
+      "decoration",
+      "festive occasion",
+      "decoration",
+      "celebration",
+      "festival",
+      "winner",
+      "won contest",
+      "celebration",
+      "competition"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "Wreaths are usually shown as a sign of winning a competition.",
+      "This is an award wreath",
+      "This is a cow contest."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 209844,
+    "question_id": "eDy3hosUWvrJfgWG3SH64Y",
+    "question": "What does the boy want to do with the ball?",
+    "choices": [
+      "catch it",
+      "bounce it",
+      "hit it",
+      "dodge it"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "hit it",
+      "hit",
+      "hit it",
+      "hit",
+      "hit it",
+      "hit it",
+      "hit it",
+      "hit it",
+      "hit it",
+      "hit"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "He is reaching out his racquet and stepping toward the ball.",
+      "He is playing tennis and the goal is to hit the ball.",
+      "That's why he's moved his racket outward."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 123731,
+    "question_id": "eEJZTokvQnEEqctAeD2q9W",
+    "question": "What is the profession of this woman?",
+    "choices": [
+      "athlete",
+      "doctor",
+      "librarian",
+      "janitor"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "tennis player",
+      "college student",
+      "tennis player",
+      "tennis player",
+      "college student",
+      "tennis player",
+      "athlete",
+      "tennis player",
+      "tennis player",
+      "tennis player"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The woman is playing a sport.",
+      "She's an athlete.",
+      "She is playing sports."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 525702,
+    "question_id": "eGLpCmZPfMHTAehwSRhafM",
+    "question": "In which country does this woman talk on the phone?",
+    "choices": [
+      "portugal",
+      "canada",
+      "spain",
+      "united states"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "america",
+      "united states",
+      "united states",
+      "usa",
+      "usa",
+      "united states",
+      "usa",
+      "usa",
+      "usa",
+      "united states"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The woman is near a us flag.",
+      "There are red and white stripes on the flag",
+      "The woman is seated next to an american flag. american flags are most commonly displayed inside buildings within the united states."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 296933,
+    "question_id": "eGgbRWku4tmeQDYnpW7She",
+    "question": "Why are they stopped?",
+    "choices": [
+      "eating lunch",
+      "lost",
+      "resting",
+      "at summit"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "taking break",
+      "posing",
+      "at summit",
+      "taking pictures",
+      "talking",
+      "enjoy view",
+      "admiring view",
+      "admire view",
+      "ski top",
+      "take photo"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "People on skis are standing together at the top of a mountain.",
+      "There is nowhere higher for these people to ski to or from.",
+      "They are at the top of the hill."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 169500,
+    "question_id": "eJexgTBc5Pw3dQ8AvGsmKq",
+    "question": "Why is the woman sitting?",
+    "choices": [
+      "to eat",
+      "tie shoes",
+      "have conversation",
+      "to work"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "eating cake",
+      "to eat",
+      "dining",
+      "eating",
+      "eating",
+      "eating",
+      "eating",
+      "she's eating",
+      "to eat",
+      "eating"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "There is food on a plate in front of the person on a table, and the backdrop is a restaurant.",
+      "A woman is sitting at a table next to a dessert. people sit to eat.",
+      "The woman is eating."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 447694,
+    "question_id": "eQ8RADgA3qhrWhEddjQZHL",
+    "question": "What can you buy from the shop next to the bar?",
+    "choices": [
+      "laptops",
+      "books",
+      "shoes",
+      "jeans"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "books",
+      "books",
+      "books",
+      "books",
+      "books",
+      "books",
+      "books",
+      "books",
+      "books",
+      "books"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The shop in the question has an awning with writing on it that identifies what is sold within.",
+      "The sign says that they sell books.",
+      "The books can be bought."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 103431,
+    "question_id": "eQi652muAGx5sLw8LjTtNz",
+    "question": "Whose idea was it to take the picture of these boys?",
+    "choices": [
+      "leftmost boy",
+      "rightmost boy",
+      "all boys",
+      "photographer"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "photographer",
+      "photographer",
+      "teacher",
+      "teacher",
+      "photographer",
+      "teacher",
+      "photographer",
+      "photographer",
+      "teacher",
+      "teacher"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "It was the photographer who put the boys up to take a picture.",
+      "None of the boys seem happy about it so it has to be the expert",
+      "It is a school picture. a professional is hired to take the students pictures."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 85803,
+    "question_id": "eRFuzEpd99XRjFnfieVZsX",
+    "question": "Why is the red object in the sink?",
+    "choices": [
+      "to sell",
+      "to purchase",
+      "to wax",
+      "to clean"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "bin",
+      "to wash",
+      "bowl",
+      "pot",
+      "to clean",
+      "cooking pot",
+      "bown",
+      "washing",
+      "dirty",
+      "container"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "Dirty dishes are kept in the sink to be washed after use.",
+      "The pot is dirty.",
+      "The object is for cleaning."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 335515,
+    "question_id": "eSTSB29nsoLrmdZJtLH634",
+    "question": "What kind of cuisine does this restaurant serve?",
+    "choices": [
+      "american",
+      "italian",
+      "japanese",
+      "chinese"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "chinese",
+      "american italian",
+      "chips",
+      "asian",
+      "asian",
+      "slop",
+      "chinese",
+      "asian",
+      "asian",
+      "chinese food"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "On the napkin at the tips of the chopstick there are the words \"golden china.\" there are noodles and vegetables next to them on the plate with dumplings in a bowl suggesting asian cuisine.",
+      "There are chopsticks and this type of food",
+      "This is an asian restaurant as you can see from the menu."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 102843,
+    "question_id": "eVBz8CF49CudhBTKcqMeiT",
+    "question": "How did the people standing near the lighthouse structure arrive here?",
+    "choices": [
+      "uber",
+      "walking",
+      "by boat",
+      "lyft"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "recently",
+      "boat",
+      "boat",
+      "boat",
+      "walked pier",
+      "walking",
+      "walking",
+      "boat",
+      "pier path",
+      "boats"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "Only a boat could reach a place in the middle of the water.",
+      "The people walked.",
+      "They were able to walk down to it on the cemented path."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 276491,
+    "question_id": "eYLQ72jHUMcpRV2DUy9i4w",
+    "question": "Why is this man in bed?",
+    "choices": [
+      "is lazy",
+      "playing sick",
+      "is sleeping",
+      "in hospital"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "in hospital",
+      "sick",
+      "is ill",
+      "use laptop",
+      "recuperate",
+      "sick",
+      "sick",
+      "recovering",
+      "sick",
+      "hospitalized"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "Based on the equipment visible, this person is in a medical setting.",
+      "The man is getting a medical procedure done.",
+      "He is in a hospital."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 168828,
+    "question_id": "eYsfs3hfCmv4hrzD5hYSQw",
+    "question": "Why is it unusual for elephants to have tusks this big?",
+    "choices": [
+      "attracts poachers",
+      "grooming habits",
+      "impossibility",
+      "abnormality"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "they break",
+      "it's not",
+      "poaching",
+      "poachers",
+      "attracts poachers",
+      "break off",
+      "old",
+      "ivory",
+      "endangered",
+      "captivity"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "Most tusks on elephants are a bit shorter than the one presented here.",
+      "Elephants are hunted for their long tusks.",
+      "Most in the wild would have been hunted because their ivory is valuable."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 541687,
+    "question_id": "emJBBUJzHg9x4QuK6xmxWH",
+    "question": "Why are the women wearing lanyards?",
+    "choices": [
+      "showing id",
+      "cosplay",
+      "halloween",
+      "style"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "showing id",
+      "identification",
+      "work",
+      "identification",
+      "business conference",
+      "for identification",
+      "business conference",
+      "hold nametags",
+      "badge holders",
+      "business conference"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The women are all wearing lanyards with their id on them.",
+      "The material used is connected to an identification tag that is used for access purposes.",
+      "The id is located inside of the lanyards."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 554815,
+    "question_id": "eozsfTVdRAHYyWswTFSts5",
+    "question": "What are the people waiting to do?",
+    "choices": [
+      "eat",
+      "work",
+      "speak",
+      "cross"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "get transportation",
+      "cross",
+      "cross street",
+      "cross street",
+      "cross street",
+      "cross street",
+      "cross",
+      "ride bus",
+      "cross street",
+      "board bus"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The people want to get over to the other side of the street.",
+      "The light is red, so they are waiting for it to turn green which means go.",
+      "They are pedestrians and are standing at the side of the road where there is a crosswalk."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 476841,
+    "question_id": "fJHswVkVr8HaMNG32ZgCGL",
+    "question": "Why are the bikes on the poles?",
+    "choices": [
+      "lost",
+      "for sale",
+      "keep safe",
+      "stolen"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "security",
+      "theft locks",
+      "parked",
+      "stored",
+      "parking",
+      "secure",
+      "locked up",
+      "locked",
+      "locked up",
+      "keep safe"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "The bikes are temporarily attached to racks next to the poles, or to the poles themselves.  each bike is attached independently of the others with a chain and lock, and a lock reduces risk of theft of the item that is locked up.",
+      "They are there to keep them from being stolen.",
+      "Most people in the city use poles to tie there bikes to."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 517623,
+    "question_id": "fKRWUQoWpPY2viNXkgJAdL",
+    "question": "Why are there so many buses?",
+    "choices": [
+      "waiting",
+      "backed up",
+      "abandoned",
+      "tourist destination"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "tourists",
+      "many passengers",
+      "move people",
+      "bus stop",
+      "busy area",
+      "tourists",
+      "tourist destination",
+      "traffic jam",
+      "rush hour",
+      "tourists"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "There are double decker buses which are mostly ridden by tourists.",
+      "Is a popular destination.",
+      "Double decker buses are in the street. tourists use double decker buses to see the sights."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 472003,
+    "question_id": "fMZjmscjFAR5B5eHH9FX6T",
+    "question": "Why are they all leaning forward?",
+    "choices": [
+      "grabbing food",
+      "selling food",
+      "returning food",
+      "making mess"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "grabbing food",
+      "serving food",
+      "get food",
+      "serving",
+      "getting food",
+      "feeding frenzy",
+      "grabbing food",
+      "getting food",
+      "pickup food",
+      "food"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "They get food.",
+      "They are serving themselves dinner.",
+      "The people are surrounding a table that is covered in food. in order to pick up food for the main purpose of eating one would have to lean to reach all items in this particular setup."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 293453,
+    "question_id": "fN3ujizWr84V7h6e8hqTgk",
+    "question": "What most likely happened before this?",
+    "choices": [
+      "shopping",
+      "biking",
+      "swimming",
+      "hiking"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "packed",
+      "packing",
+      "relocation",
+      "packing",
+      "packing",
+      "packing",
+      "packing",
+      "packing",
+      "shopping",
+      "shopping"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "Shopping bags are displayed.",
+      "The people went shopping.",
+      "The vehicle contains bags from stores."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 495376,
+    "question_id": "fUtUTiQG7mfETMPNVSjEd7",
+    "question": "Why are the woman leaning against the snow pile?",
+    "choices": [
+      "doing tricks",
+      "making snow-angels",
+      "to rest",
+      "to tan"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "rest",
+      "resting",
+      "to rest",
+      "sit down",
+      "resting",
+      "resting",
+      "for rest",
+      "relaxation",
+      "sitting",
+      "resting"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The women are idle and taking a break from skiing.",
+      "People on skis are leaning against a pile of snow. people lean on things to rest.",
+      "It appears as if they are cross-country skiing, which exerts energy. the snow pile is a good place to take a rest."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 384960,
+    "question_id": "ffrytqVzTtjiMpxrCtdJuz",
+    "question": "Why does the person have an umbrella?",
+    "choices": [
+      "disguise",
+      "sun",
+      "snow",
+      "rain"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "raining",
+      "raining",
+      "rain",
+      "rain",
+      "rain",
+      "block rain",
+      "it's raining",
+      "raining",
+      "rain",
+      "raining"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "There are water drops running down outside of the glass.",
+      "To keep them dry.",
+      "There is rain on the window and the person outside is in the rain so they will need the umbrella to protect themselves."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 523262,
+    "question_id": "fmF2UviqdojTyCtT4Q68op",
+    "question": "Why are the people gathered together?",
+    "choices": [
+      "to pose",
+      "to eat",
+      "to wrestle",
+      "for warmth"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "picture",
+      "snow season",
+      "see picture",
+      "group photo",
+      "having fun",
+      "to pose",
+      "skiing",
+      "take photo",
+      "photo",
+      "having fun"
+    ],
+    "difficult_direct_answer": true,
+    "rationales": [
+      "The people pose.",
+      "The people are gathered as a group for a photo.",
+      "The people are all facing in the same direction and are all stationary in a group. these are elements that would be consistent with people posing for a photo."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 409178,
+    "question_id": "fqzdL4z675T4v9Dxxna4xu",
+    "question": "Why is she wearing glasses?",
+    "choices": [
+      "fashion",
+      "costume",
+      "disguise",
+      "safety"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "protect eyes",
+      "protection",
+      "protection",
+      "see better",
+      "snow protection",
+      "protection",
+      "protection",
+      "protection",
+      "safety",
+      "block snow"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The goggles the woman is wearing protect her face from snow.",
+      "The glasses that the skier is wearing are for the skier's safety because it protects his eyes",
+      "Skiing can be very unpredictable so it's a good idea to wear glasses to stay safe; just in case something goes wrong."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 33444,
+    "question_id": "fsb5mUVaUA8wkp4krNE7aW",
+    "question": "Why did the dog jump in the air?",
+    "choices": [
+      "eat",
+      "catch",
+      "flip",
+      "greet"
+    ],
+    "correct_choice_idx": 1,
+    "direct_answers": [
+      "catch frisbee",
+      "catch",
+      "playing frisbee",
+      "catch frisbee",
+      "catch frisbee",
+      "catch",
+      "catch frisbee",
+      "catch frisbee",
+      "grab frisbee",
+      "catch frisbee"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The dog got the frisbee.",
+      "The pair are at a frisbee dog show where the objective is to throw frisbees and have the dogs catch them. the dog has the frisbee in its mouth meaning a catch recently happened and likely was the cause for jumping into the air.",
+      "He has a frisbee in his mouth."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 499309,
+    "question_id": "g8d24U7rQGtbQCMAbfxCwK",
+    "question": "What might this room be used for?",
+    "choices": [
+      "golfing",
+      "sleeping",
+      "reading",
+      "bowling"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "meetings",
+      "convening",
+      "community",
+      "studying",
+      "community center",
+      "reading",
+      "entertaining",
+      "display",
+      "reading",
+      "meetings"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "Someone might also d accidentally, but the lighting suggests it would be best for a.",
+      "There are several seats in this room where someone can look at a book.",
+      "The room is not suitable for playing sports, and it does not have beds for sleeping."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 193380,
+    "question_id": "g8gBgvCKqffg4EW6v23v6E",
+    "question": "What area is shown here?",
+    "choices": [
+      "city highway",
+      "race track",
+      "bike path",
+      "harbor"
+    ],
+    "correct_choice_idx": 3,
+    "direct_answers": [
+      "marina",
+      "marina",
+      "harbor",
+      "pier",
+      "boat dock",
+      "waterfront",
+      "dock",
+      "marina",
+      "marina",
+      "marina"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "There are wooden floors with guard rails and water below with a wooden walkway. there are boats all around.",
+      "The area contains water and boats.",
+      "There are boats parked by the boards."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 432890,
+    "question_id": "gA97k9V53Lp3UumVuFK5uU",
+    "question": "Where is the woman jumping?",
+    "choices": [
+      "dorm room",
+      "hotel room",
+      "restaurant",
+      "hospital room"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "room",
+      "dorm room",
+      "kitchen",
+      "bedroom",
+      "bedroom",
+      "dorm room",
+      "floor",
+      "air",
+      "dorm room",
+      "apartment"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The room is personalized and everything is in a small area",
+      "A girl is jumping in the doorway of a small room.",
+      "The room is small and the person appears to be wearing a school sweatshirt."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 368956,
+    "question_id": "gTvkr93yxtag5ANXzMx6zB",
+    "question": "Why are some of the kids wearing numbers?",
+    "choices": [
+      "to participate",
+      "to punish",
+      "dress code",
+      "for fun"
+    ],
+    "correct_choice_idx": 0,
+    "direct_answers": [
+      "racing",
+      "competition",
+      "race",
+      "race",
+      "ski competition",
+      "to participate",
+      "race",
+      "competition",
+      "racing",
+      "race"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "The skiers are wearing numbers because it is a competition that they are participating in",
+      "The kids are participating.",
+      "They are participating in a competition or a race this identifies them."
+    ]
+  },
+  {
+    "split": "train",
+    "image_id": 49643,
+    "question_id": "gUEufAxu52pUPQDVQuTCCJ",
+    "question": "Why are the men's vests yellow in color?",
+    "choices": [
+      "fashion",
+      "dress code",
+      "visibility",
+      "camouflage"
+    ],
+    "correct_choice_idx": 2,
+    "direct_answers": [
+      "city workers",
+      "more visibility",
+      "safety",
+      "safety reflection",
+      "working gear",
+      "safety",
+      "increased visibility",
+      "visibility",
+      "visibility",
+      "safety"
+    ],
+    "difficult_direct_answer": false,
+    "rationales": [
+      "Garbage men are wearing brightly colored vests. roadworkers wear brightly colored clothes to increase visibility and safety.",
+      "The man wants to be visible.",
+      "The vests are reflective so people can see the men better for their safety."
+    ]
+  }
+]

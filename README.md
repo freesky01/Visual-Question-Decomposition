@@ -74,6 +74,10 @@ You can also directly download our finetuned checkpoints of these four MLLMs in 
 
 ## Inference
 ### 1. VQD Task
+If you'd like to perform a VQD task to generate sub-questions, please run the following script:
+```
+
+```
 
 ### 2. VQA Task
 If you'd like to perform a VQA task, please run the following script:
@@ -98,7 +102,15 @@ python ../inference_master.py \
 
 ## Evaluation
 ### 1. Quality of Sub-questions: SubQuestRater Evaluation Framework
-If you'd like to know the VQD ability, please provide the path of genearted sub-questions, and the path of the printed pdf file:
+If you'd like to know the VQD ability, please first provide the path of genearted sub-questions based on SubQuestRater questions, then use GPT model to evaluate the quality of sub-questions in the criteria of Non-Repetition, Relevance and Groundedness:
+```
+python ../evaluation/vqd_eval.py \
+    --pred_path example_subquestions.json \
+    --api_key xxx \
+    --gpt_eval_path example_gpt_eval.json
+```
+
+Then we can know the statistics of sub-questions, and print them to a pdf file:
 ```
 python ../evaluation/vqd_eval.py \
     --pred_path ../output/VQD/MiniGPT-v2/minigptv2_vqd_output.json \

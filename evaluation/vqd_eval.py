@@ -1,148 +1,84 @@
 import argparse
+import os
+import base64
+import requests
 import json
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-import nltk
-from matplotlib.backends.backend_pdf import PdfPages  # Import PdfPages
+from tqdm import tqdm  # Import tqdm for the progress bar
 
-# Download the punkt data package
-nltk.download('punkt')
-
+from ..utils.data_utils import COCO_IMAGE_TRAINING_SET_PATH
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Demo")
     parser.add_argument("--pred_path", required=True, help="path to prediction output file.")
-    parser.add_argument("--eval_output_path", required=True, help="path to evaluation output file.")
+    parser.add_argument("--api_key", required=True, help="path to prediction output file.")
+    parser.add_argument("--gpt_eval_path", required=True, help="path to evaluation file by GPT.")
     args = parser.parse_args()
     return args
 
 
-def compute_scores(data):
-    results = []
-    for sample in data:
-        if 'choices' not in sample or not sample['choices']:
-            results.append({"G_score": 0, "Y_score": 0, "U_score": 0})
-            continue
-
-        try:
-            content = sample["choices"][0]["message"]["content"]
-        except KeyError:
-            results.append({"G_score": 0, "Y_score": 0, "U_score": 0})
-            continue
-
-        if 'E' in content:
-            results.append({"G_score": 0, "Y_score": 0, "U_score": 0})
-            continue
-
-        B_count = content.count('B')
-        G_count = content.count('G')
-        Y_count = content.count('Y')
-        N_count = content.count('N')
-        U_count = content.count('U')
-        R_count = content.count('R')
-
-        G_score = (G_count / (B_count + G_count)) * 100 if (B_count + G_count) > 0 else 0
-        Y_score = (Y_count / (Y_count + N_count)) * 100 if (Y_count + N_count) > 0 else 0
-        U_score = (U_count / (U_count + R_count)) * 100 if (U_count + R_count) > 0 else 0
-
-        results.append({"G_score": G_score, "Y_score": Y_score, "U_score": U_score})
-
-    return results
-
-
-def process_files(file_paths):
-    all_results = []
-    for file_path in file_paths:
-        try:
-            with open(file_path, 'r') as f:
-                data = json.load(f)
-
-            if not isinstance(data, list):
-                print(f"Unexpected data format in {file_path}, expected a list of samples.")
-                continue
-
-            scores = compute_scores(data)
-            df = pd.DataFrame(scores)
-            average_scores = df.mean().to_dict()
-            all_results.append(average_scores)
-
-        except Exception as e:
-            print(f"Error processing file {file_path}: {e}")
-
-    if len(all_results) != len(file_paths):
-        print(f"Warning: Expected {len(file_paths)} results, but got {len(all_results)}.")
-
-    return all_results
-
-
-def plot_comparison(results, metric, metric_name, pdf_pages):
-    labels = ['MiniGPT-v2', 'LLaVA-1.5', 'Qwen-VL-Chat', 'InternVL\n-Chat-V1-5']
-    width = 0.35
-
-    if len(results) != 8:
-        print(f"Error: Expected 8 results, but got {len(results)}. Cannot plot comparison.")
-        return
-
-    data1 = [results[i][metric] for i in range(0, len(results), 2)]
-    data2 = [results[i][metric] for i in range(1, len(results), 2)]
-
-    x = np.arange(len(labels))
-
-    fig, ax = plt.subplots()
-
-    # Define RGB colors (range 0-255)
-    color1_rgb = (31,119,180)  # cornflowerblue
-    color2_rgb = (255,127,14)  # salmon
-
-    # Convert RGB colors to 0-1 range
-    color1 = tuple(c / 255 for c in color1_rgb)
-    color2 = tuple(c / 255 for c in color2_rgb)
-
-    bar1 = ax.bar(x - width / 2, data1, width, label='Original Model', color=color1)
-    bar2 = ax.bar(x + width / 2, data2, width, label='Finetuned Model', color=color2)
-
-    ax.set_ylabel('Scores')
-    ax.set_title(f'Comparison on criterion {metric_name}')
-    ax.set_xticks(x)
-    ax.set_xticklabels(labels)
-    ax.set_ylim(0, 120)  # Adjust maximum value as needed
-    ax.set_yticks(np.arange(0, 120, 20))
-
-    for bar in bar1:
-        yval = bar.get_height()
-        ax.text(bar.get_x() + bar.get_width() / 2, yval, f'{yval:.2f}', va='bottom', ha='center', fontsize=13)
-
-    for bar in bar2:
-        yval = bar.get_height()
-        ax.text(bar.get_x() + bar.get_width() / 2, yval, f'{yval:.2f}', va='bottom', ha='center', fontsize=13)
-
-    ax.set_ylabel('Scores', fontsize=15)
-    ax.set_title(f'Comparison on criterion {metric_name}', fontsize=20)
-    ax.set_xticks(x)
-    ax.set_xticklabels(labels, fontsize=15)
-
-    ax.legend(fontsize=12)
-    fig.tight_layout()
-
-    # Save the current chart to the PDF file
-    pdf_pages.savefig(fig)
-
-    plt.close(fig)  # Close the current figure to avoid display
+# Function to encode the image to Base64
+def encode_image(image_path):
+    with open(image_path, "rb") as image_file:
+        return base64.b64encode(image_file.read()).decode('utf-8')
 
 
 if __name__ == "__main__":
     args = parse_args()
-    results = process_files([args.pred_path])
-    metrics = {
-        'G_score': 'Relevance',
-        'Y_score': 'Groundedness',
-        'U_score': 'Non-Repetition'
+    # Load the JSON file
+    with open(args.pred_path, 'r') as file:
+        data = json.load(file)
+
+    # Extract the required information for each selected key
+    requests_data = []
+    for key in data:
+        item = data[key]
+        image_id_formatted = str(item['image_id']).zfill(12)
+        image_path = os.path.join(COCO_IMAGE_TRAINING_SET_PATH, image_id_formatted + ".jpg")
+        base64_image = encode_image(image_path)
+        prompt_text = f"You have 3 tasks:\nEvaluate the following texts based on the given image.\nIf a sub-question is irrelevant to the main question and does not help in answering it at all (e.g., the main question is asking about relationship between two person sitting at the table, but the sub-questions are meaninglessly asking about colors of their clothes, or shapes of the table), classify it B. Otherwise, classify it G.\nIf a sub-question is a repetition of the main question or any existing sub-questions (repetition means the sub-question repeats exactly the same content or discusses the same topic in a different form), classify it R. Otherwise, classify it U.\nIf the answer to a sub-question can be derived from the image through direct observation, basic knowledge, logical inference, or reasonable assumptions, classify it Y. Otherwise, if the sub-question requires information that is not available in the image, classify it N.\n In conclusion, I want 3 classes for each subquestion, G/B, Y/N, U/R. Attention:1. Do not repeat the subquestion or give explanation, just give me the 3 classes.\n2. If you can not find any subquesion under the answer of a main question, cases can be either the answers are not presented in a subquestion form or the subquestion is incomplete, classify it E.\nHere is the main question:{item['question']}\nHere is the subquestion:{item['model_answer']}"
+
+        requests_data.append({
+            'question_id': key,
+            'image_base64': base64_image,
+            'prompt_text': prompt_text
+        })
+
+    # Headers for the API request
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {args.api_key}"
     }
 
-    # Create a PDF file and save all charts
-    with PdfPages(args.eval_output_path) as pdf_pages:
-        for metric, metric_name in metrics.items():
-            plot_comparison(results, metric, metric_name, pdf_pages)
+    # Send requests and collect responses
+    responses = []
+    for request_data in tqdm(requests_data, desc="Processing requests"):
+        payload = {
+            "model": "gpt-4-turbo",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": request_data['prompt_text']
+                        },
+                        {
+                            "type": "image_url",
+                            "image_url": {
+                                "url": f"data:image/jpeg;base64,{request_data['image_base64']}"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "max_tokens": 300
+        }
 
-    print(f"All comparison charts saved to {args.eval_output_path}.")
+        response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
+        responses.append(response.json())
+
+    # Save the responses to a JSON file
+    with open(args.gpt_eval_path, 'w') as outfile:
+        json.dump(responses, outfile, indent=4)
+
+    print("Responses saved")
